@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "08d7b1d124875aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34bb746d0e7df3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841c943f516e509d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Float Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41f5d519e8b0ffc7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "afe86b6592b551bc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c51b93d10c6b3fe0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c66f93afb7110426",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a64adfaca699885a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e90b50064ee3e4e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a70cd4b0aad4d2d0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Pages/TfSD SB - Stages - Float Islands.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "38f7451aa2e7cd20",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Pages/TfSD SB - Stages - Float Islands.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c5c6cbec8fd94f6e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Pages/TfSD SB - Stages - Float Islands.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "841c943f516e509d",
+  "lastOpenFiles": []
+}

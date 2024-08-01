@@ -1,0 +1,1 @@
+Each character could have a B-Skin and C-Skin that the player unlocks throughout the game.

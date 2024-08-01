@@ -1,0 +1,1 @@
+The game should have The Arena and True Arena modes as you beat Main Game and Extra Game in order, and there should be a secret arena final boss who's a variant of Dark Matter.

@@ -1,0 +1,1 @@
+The game could have unlockable characters as you clear a gamemode, such as Meta Knight, King Dedede and Bandanna Dee. They'd all have different attributes that differentiate them from others.
