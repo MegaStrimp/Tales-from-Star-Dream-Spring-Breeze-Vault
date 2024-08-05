@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14d048ad9ff63c24",
+        "id": "84c1c049f9b1c20d",
         "type": "tabs",
         "children": [
           {
-            "id": "c2ea77f82b8de14b",
+            "id": "fd203ae2670e6f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb526b4be59ff024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Stages - Float Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "popp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
+    "width": 269.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Float Islands.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Float Islands.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Float Islands.md"
+                "file": "Pages/TfSD SB - Stages - Green Greens.md"
               }
             }
           }
@@ -161,20 +148,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cb526b4be59ff024",
+  "active": "fd203ae2670e6f49",
   "lastOpenFiles": [
-    "Pages/TfSD SB - Stages - Green Greens.md",
-    "Pages/TfSD SB - Stages - Float Islands.md",
-    "Pages/TfSD SB - Enemies - Blipper.md",
-    "Pages/TfSD SB - Enemies - Coner.md",
-    "Pages/TfSD SB - Enemies - Shotzo.md",
     "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - Enemies - Shotzo.md",
+    "Pages/TfSD SB - Enemies - Squishy.md",
+    "Pages/TfSD SB - Enemies - Coner.md",
+    "Pages/TfSD SB - Enemies - Blipper.md",
     "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Enemies - Gordo.md",
+    "Pages/TfSD SB - Enemies - Kabu.md",
+    "Pages/TfSD SB - Enemies - Coconut.md",
+    "Pages/TfSD SB - Enemies - Wizzer.md",
     "Pages/TfSD SB - Enemies - Waddle Doo.md",
     "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
     "Pages/TfSD SB - Enemies - Broom Hatter.md",
-    "Pages/TfSD SB - Enemies - Squishy.md",
-    "Pages/TfSD SB - Enemies - Kabu.md",
     "Pages/TfSD SB - Enemies - Cappy.md",
     "Pages/TfSD SB - Changelog - Version 0.1.md",
     "Pages/TfSD SB - Changelog - Version 0.4.md",
@@ -185,10 +176,6 @@
     "Pages/TfSD SB - UI - Scene Select.md",
     "Pages/TfSD SB - UI - Pause Screen.md",
     "Pages/TfSD SB - UI - Main Menu.md",
-    "Pages/TfSD SB - UI - HUD.md",
-    "Pages/TfSD SB - UI - Data Select.md",
-    "Pages/TfSD SB - UI - Config Mode.md",
-    "Pages/TfSD SB - UI - Character Select.md",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blopper.png",

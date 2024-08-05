@@ -29,8 +29,23 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 -
 #### Float Islands - Level 2
 ##### Enemies
+[[TfSD SB - Enemies - Kabu#Jump and Turn|Kabu - Jump and Turn]]
+[[TfSD SB - Enemies - Kabu#Walk and Turn|Kabu - Walk and Turn]]
+[[TfSD SB - Enemies - Wizzer#Attack|Wizzer - Attack]]
+[[TfSD SB - Enemies - Kabu#Idle|Kabu - Idle]]
+[[TfSD SB - Enemies - Kabu#Idle Fast|Kabu - Idle Fast]]
+[[TfSD SB - Enemies - Coconut#Auto Fall|Coconut - Auto Fall]]
+[[TfSD SB - Enemies - Kabu#Invis|Kabu - Invis]]
+[[TfSD SB - Enemies - Gordo#Vertical|Gordo - Vertical]]
+[[TfSD SB - Enemies - Squishy#Walk and Turn|Squishy - Walk and Turn]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Spike|Spike]]
+[[TfSD SB - Stage Elements - Star Block|Star Block]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Float Islands - Level 3
 ##### Enemies
 [[TfSD SB - Enemies - Coconut#Auto Fall|Coconut - Auto Fall]]
@@ -42,8 +57,23 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 -
 #### Float Islands - Level 4
 ##### Enemies
+[[TfSD SB - Enemies - Blipper#Stand and Jump|Blipper - Stand and Jump]]
+[[TfSD SB - Enemies - Squishy#Walk and Turn|Squishy - Walk and Turn]]
+[[TfSD SB - Enemies - Shotzo#Follow Player|Shotzo - Follow Player]]
+[[TfSD SB - Enemies - Squishy#Bounce Fly|Squishy - Bounce Fly]]
+[[TfSD SB - Enemies - Bronto Burt#Circle Chase|Bronto Burt - Circle Chase]]
+[[TfSD SB - Enemies - Bronto Burt#Circle Chase Double|Bronto Burt - Circle Chase Double]]
+[[TfSD SB - Enemies - Shotzo#Shoot Up|Shotzo - Shoot Up]]
+[[TfSD SB - Enemies - Squishy#Big Jump|Squishy - Big Jump]]
+[[TfSD SB - Enemies - Kabu#Jump and Turn|Kabu - Jump and Turn]]
+[[TfSD SB - Enemies - Coner#Dash Walk|Coner - Dash Walk]]
+[[TfSD SB - Enemies - Shotzo#Shoot Turn|Shotzo - Shoot Turn]]
 ##### Stage Elements
+[[TfSD SB - Items - Superspicy Curry|Superspicy Curry]]
+[[TfSD SB - Stage Elements - Star Block|Star Block]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Float Islands - Level 5
 ##### Enemies
 -

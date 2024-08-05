@@ -10,3 +10,7 @@ The enemy's aim follows the player in 5 directions and when it's locked in, they
 The enemy shoots straight to their direction after a few seconds of reload time.
 #### Bounce and Attack
 The enemy bounces a tile above and does a three-way attack. Both actions are asynchronous.
+#### Shoot Up
+The enemy shoots three times upwards after a few seconds of reload time.
+#### Shoot Turn
+The enemy shoots and turns to the next direction available.

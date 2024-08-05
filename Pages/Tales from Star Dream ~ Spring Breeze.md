@@ -72,6 +72,7 @@ Created in GameMaker and StarDream Framework.
 ## Stage Elements
 * [[TfSD SB - Stage Elements - Star Block|Star Block]] (ADD)
 * [[TfSD SB - Stage Elements - Water|Water]] (ADD)
+* [[TfSD SB - Stage Elements - Spike|Spike]] (ADD)
 * [[TfSD SB - Stage Elements - Star Block|Star Block]] (ADD)
 * [[TfSD SB - Stage Elements - Door|Door]] (ADD)
 ## Items
