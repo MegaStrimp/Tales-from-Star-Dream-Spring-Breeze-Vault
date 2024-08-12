@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84c1c049f9b1c20d",
+        "id": "b8eb33dc62040b1c",
         "type": "tabs",
         "children": [
           {
-            "id": "fd203ae2670e6f49",
+            "id": "6983faf32eb477b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0eb05f87d3d27bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "720c2869ad96aa94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfce97845dd32d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Castle Lololo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ab03816b0e5fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a586831ec4dcdec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Waddle Dee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "906d9c7142c8eb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Waddle Doo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80413fddd0ed3546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Broom Hatter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "dc4dcd87cbe69539",
@@ -86,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Green Greens.md",
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Green Greens.md",
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Green Greens.md"
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md"
               }
             }
           }
@@ -148,34 +233,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "fd203ae2670e6f49",
+  "active": "0eb05f87d3d27bac",
   "lastOpenFiles": [
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Enemies - Dizzy.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
+    "Pages/TfSD SB - Enemies - Waddle Doo.md",
+    "Pages/TfSD SB - Enemies - Broom Hatter.md",
+    "Pages/TfSD SB - Enemies - Two Face.md",
     "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - UI - Splash Screen.md",
+    "Images/TfSD SB - Image - UI - Splash Screen.png",
+    "Pages/TfSD SB - UI - Data Select.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - UI - Main Menu.md",
     "Pages/TfSD SB - Enemies - Shotzo.md",
     "Pages/TfSD SB - Enemies - Squishy.md",
     "Pages/TfSD SB - Enemies - Coner.md",
     "Pages/TfSD SB - Enemies - Blipper.md",
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
     "Pages/TfSD SB - Enemies - Gordo.md",
     "Pages/TfSD SB - Enemies - Kabu.md",
     "Pages/TfSD SB - Enemies - Coconut.md",
     "Pages/TfSD SB - Enemies - Wizzer.md",
-    "Pages/TfSD SB - Enemies - Waddle Doo.md",
     "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
-    "Pages/TfSD SB - Enemies - Broom Hatter.md",
     "Pages/TfSD SB - Enemies - Cappy.md",
     "Pages/TfSD SB - Changelog - Version 0.1.md",
     "Pages/TfSD SB - Changelog - Version 0.4.md",
-    "Pages/TfSD SB - Changelog - Version 0.3.md",
-    "Pages/TfSD SB - Changelog - Version 0.2.md",
-    "Pages/TfSD SB - UI - Title Screen.md",
-    "Pages/TfSD SB - UI - Sound Test.md",
-    "Pages/TfSD SB - UI - Scene Select.md",
-    "Pages/TfSD SB - UI - Pause Screen.md",
-    "Pages/TfSD SB - UI - Main Menu.md",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blopper.png",
@@ -185,7 +271,6 @@
     "Images/TfSD SB - Image - Enemies - Squishy.png",
     "Images/TfSD SB - Image - Enemies - Coner.png",
     "Images/TfSD SB - Image - Enemies - Kabu.png",
-    "Images/TfSD SB - Image - Enemies - Dizzy.png",
     "Tales from StarDream - Spring Breeze/Images/TfSD SB - Image - UI - Sound Test.png.0.pdnSave",
     "Tales from StarDream - Spring Breeze/Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",
     "Tales from StarDream - Spring Breeze/Images/TfSD SB - Image - UI - Scene Select.png.0.pdnSave",

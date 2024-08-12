@@ -87,6 +87,7 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - Items - Superspicy Curry|Superspicy Curry]] (ADD)
 * [[TfSD SB - Items - Warp Star|Warp Star]] (ADD)
 ## User Interface
+* [[TfSD SB - UI - Splash Screen|Splash Screen]]
 * [[TfSD SB - UI - Title Screen|Title Screen]] (ADD IMAGE)
 * [[TfSD SB - UI - Data Select|Data Select]] (ADD IMAGE)
 * [[TfSD SB - UI - Main Menu|Main Menu]]

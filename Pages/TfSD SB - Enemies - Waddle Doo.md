@@ -9,3 +9,5 @@ A one-eyed opponent that acts similarly to a Waddle Dee, but may fire beams. Jum
 The enemy walks back and forth in a wave-like behavior. The animation speed changes based on the movement.
 #### Stand and Attack
 The enemy stands still while doing their walking animation in a faster pace, gets in a charging state which they start flashing and turn to the player's direction, then does a beam attack.
+#### Walk
+The enemy walks on a straight line and changes direction when it touches a wall. Room boundaries don't effect them.

@@ -1,11 +1,11 @@
 ## Castle Lololo
 Castle Lololo is the second location that Kirby visits, which features many tight corridors, mysterious and hostile creatures, and alternate ways to travel through its catacombs. Kirby ventures through the castle, going through several paths until he comes to a room that contains the Mid-Boss Lololo, who shoves boxes at Kirby. After Kirby spits these boxes back at him three times, he retreats further into the castle, allowing Kirby to continue. After another short traversal, Kirby arrives at the stage's boss: the duo foes Lololo & Lalala. They will both follow the same attack pattern as Lololo did in his first battle. After defeating them, Kirby moves on to the next area.
 ### Normal Levels
-#### Castle Lololo - Level 1 add doors
+#### Castle Lololo - Level 1
 ##### Enemies
 [[TfSD SB - Enemies - Broom Hatter#Back and Dash|Broom Hatter - Back and Dash]]
 ##### Stage Elements
--
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 2
@@ -17,6 +17,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Shotzo#Follow Player|Shotzo - Follow Player]]
 ##### Stage Elements
 [[TfSD SB - Items - Mike|Mike]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 3
@@ -24,6 +25,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Booler#Jump and Float|Booler - Jump and Float]]
 [[TfSD SB - Enemies - Booler#Jump and Float Back|Booler - Jump and Float Back]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
 ##### Special Behaviors
 -
@@ -34,6 +36,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Broom Hatter#Back and Dash|Broom Hatter - Back and Dash]]
 ##### Stage Elements
 [[TfSD SB - Items - Bomb|Bomb]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 5
@@ -41,7 +44,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Chuckie#Triple Bounce|Chuckie - Triple Bounce]]
 [[TfSD SB - Enemies - Two Face#Follow Player|Two Face - Follow Player]]
 ##### Stage Elements
--
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 > * Repeating Room
 #### Castle Lololo - Level 6
@@ -54,6 +57,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Gordo#Vertical|Gordo - Vertical]]
 ##### Stage Elements
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 7
@@ -62,16 +66,18 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Shotzo#Shoor Straight|Shotzo - Shoot Straight]]
 [[TfSD SB - Enemies - Bronto Burt#Up and Down Hard|Bronto Burt - Up and Down Hard]]
 [[TfSD SB - Enemies - Bronto Burt#Up and Down Hard Long|Bronto Burt - Up and Down Hard Long]]
+[[TfSD SB - Enemies - Broom Hatter#Walk and Jump|Broom Hatter - Walk and Jump]]
 ##### Stage Elements
 [[TfSD SB - Items - Invincible Candy|Invincible Candy]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 8
 ##### Enemies
 [[TfSD SB - Enemies - Mumbies#Down and Turn|Mumbies - Down and Turn]]
-[[TfSD SB - Enemies - Mumbies#Up and Turn|Mumbies - Up and Turn]]
-[[TfSD SB - Enemies - Booler#Up and Down|Booler - Up and Down]]
 [[TfSD SB - Enemies - Mumbies#Follow Player|Mumbies - Follow Player]]
+[[TfSD SB - Enemies - Booler#Up and Down|Booler - Up and Down]]
+[[TfSD SB - Enemies - Mumbies#Up and Turn|Mumbies - Up and Turn]]
 ##### Stage Elements
 [[TfSD SB - Items - Warp Star|Warp Star]]
 ##### Special Behaviors
@@ -89,12 +95,14 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Booler#Rotate|Booler - Rotate]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Star Block|Star Block]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 > * Circular Enemy Wave
 #### Castle Lololo - Level 11
 ##### Enemies
 [[TfSD SB - Enemies - Booler#Jump and Squish|Booler - Jump and Squish]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
 [[TfSD SB - Items - Superspicy Curry|Superspicy Curry]]
 ##### Special Behaviors
@@ -104,7 +112,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Broom Hatter#Walk|Broom Hatter - Walk]]
 [[TfSD SB - Enemies - Flapper#Up Dİagonal|Flapper - Up Diagonal]]
 ##### Stage Elements
--
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 13
@@ -117,6 +125,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Star Block|Star Block]]
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 14
@@ -126,7 +135,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 [[TfSD SB - Enemies - Flapper#Bounce Fly|Flapper - Bounce Fly]]
 [[TfSD SB - Enemies - Broom Hatter#Walk and Turn Hard|Broom Hatter - Walk and Turn Hard]]
 ##### Stage Elements
--
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Castle Lololo - Level 15

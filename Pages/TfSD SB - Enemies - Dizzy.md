@@ -5,3 +5,5 @@
 
 Tumbling through the air, this strange creature flies in a straight line or bounces in a triangular pattern between walls.
 ### AI States
+#### Fly Straight Vertical
+The enemy flies straight vertically.

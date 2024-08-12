@@ -3,6 +3,14 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 ### Normal Levels
 #### Bubbly Clouds - Level 1
 ##### Enemies
+[[TfSD SB - Enemies - Waddle Doo#Walk|Waddle Doo - Walk]]
+[[TfSD SB - Enemies - Gordo#Vertical|Gordo - Vertical]]
+[[TfSD SB - Enemies - Dizzy#Fly Straight Vertical|Dizzy - Fly Straight Vertical]]
+[[TfSD SB - Enemies - Shotzo#Follow Player|Shotzo - Follow Player]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
+[[TfSD SB - Enemies - Bronto Burt#Fly Straight Horizontal|Bronto Burt - Fly Straight Horizontal]]
+[[TfSD SB - Enemies - Bronto Burt#Circle Chase Close|Bronto Burt - Circle Chase Close]]
+[[TfSD SB - Enemies - Dizzy#Charge Vertical|Dizzy - Charge Vertical]]
 ##### Stage Elements
 ##### Special Behaviors
 #### Bubbly Clouds - Level 2
