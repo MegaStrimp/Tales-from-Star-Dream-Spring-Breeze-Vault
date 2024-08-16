@@ -7,3 +7,5 @@ Tumbling through the air, this strange creature flies in a straight line or boun
 ### AI States
 #### Fly Straight Vertical
 The enemy flies straight vertically.
+#### Charge Horizontal
+The enemy charges for a few seconds and flies horizontally to the direction they're facing.

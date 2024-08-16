@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "4713742a540a9677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "835224ad75f67dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "720c2869ad96aa94",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md"
+                "file": "Pages/TfSD SB - Enemies - Dizzy.md"
               }
             }
           }
@@ -233,22 +256,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0eb05f87d3d27bac",
+  "active": "4713742a540a9677",
   "lastOpenFiles": [
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
     "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
     "Pages/TfSD SB - Enemies - Dizzy.md",
-    "Pages/TfSD SB - Enemies - Waddle Dee.md",
-    "Pages/TfSD SB - Enemies - Waddle Doo.md",
     "Pages/TfSD SB - Enemies - Broom Hatter.md",
+    "Pages/TfSD SB - Enemies - Waddle Doo.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Enemies - Booler.md",
     "Pages/TfSD SB - Enemies - Two Face.md",
     "Pages/TfSD SB - Stages - Float Islands.md",
     "Pages/TfSD SB - UI - Splash Screen.md",
     "Images/TfSD SB - Image - UI - Splash Screen.png",
     "Pages/TfSD SB - UI - Data Select.md",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
     "Pages/TfSD SB - UI - Main Menu.md",
     "Pages/TfSD SB - Enemies - Shotzo.md",
     "Pages/TfSD SB - Enemies - Squishy.md",
@@ -261,7 +285,6 @@
     "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
     "Pages/TfSD SB - Enemies - Cappy.md",
     "Pages/TfSD SB - Changelog - Version 0.1.md",
-    "Pages/TfSD SB - Changelog - Version 0.4.md",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blipper.png",
     "Images/TfSD SB - Image - Enemies - Blopper.png",
