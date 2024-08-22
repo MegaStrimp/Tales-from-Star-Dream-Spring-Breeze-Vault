@@ -1,5 +1,4 @@
 ## Meta Knight
-
 Meta Knight is an unlockable character. He swings his sword to attack and can fly by flapping his wings.
 
 He gets a special theme while fighting bosses. *Kirby's Adventure Boss Theme* for regular bosses and *Tater-Tot Tunes' Butterfly of Judgement Cover* for the final boss.

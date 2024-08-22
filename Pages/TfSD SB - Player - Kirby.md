@@ -1,5 +1,4 @@
 ## Kirby
-
 Kirby is the starting character of the game. He inhales to swallow enemies and can float like a balloon.
 ### Moveset
 #### *Walk -* Left/Right

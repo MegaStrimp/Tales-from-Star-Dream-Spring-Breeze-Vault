@@ -11,9 +11,19 @@ A selection that allows the player to chance the screen palette.
 #### Selections
 ##### Mono
 The classic monochrome color scheme.
+##### KirokazeGB
+A green palette.
+##### IceCream
+A cream-peach palette.
+##### Mist
+A mint-green palette.
+##### Rustic
+A rusty-colored palette.
+##### AYY4
+A bright-cream palette.
+##### Wish
+A blue palette.
 ##### Remix
-An option that changes the screen palette based on the stage.
-##### DX
 An option that changes every graphic to a dynamically colored counterpart.
 ### *Control -* Unlocked by default
 A selection that allows the player to change their playstyle.

@@ -1,5 +1,4 @@
 ## King Dedede
-
 King Dedede is an unlockable character. He uses his hammer to attack and is floatier than [[TfSD SB - Player - Kirby|Kirby]].
 
 He gets a special theme while fighting bosses. *SiIvaGunner's Extended Mt. Dedede* for regular bosses and *Tater-Tot Tunes' Masked Dedede Cover* for the final boss.

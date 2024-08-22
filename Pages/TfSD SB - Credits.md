@@ -5,6 +5,7 @@
 * Strimp
 #### Art Designer
 * Subsandwich
+* SideLineGames
 #### DX Palettes
 * Rabbid
 #### Additional Music
