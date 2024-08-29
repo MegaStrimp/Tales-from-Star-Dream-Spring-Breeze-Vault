@@ -1,5 +1,5 @@
 ## Main Menu
-![[TfSD SB - Image - UI - Main Menu.png]]
+![[Images/TfSD SB - Image - UI - Main Menu.png]]
 A scrollable menu where the player can select a gamemode or menu, using the Up/Down keys, if the selection is unlocked.
 
 The selections are handled via a 'ds_list' where the menu buttons are added to the list if they're deemed 'unlocked' in the save file. To unlock everything, the player can press 'up', 'select', and 'A' buttons while on the title screen.

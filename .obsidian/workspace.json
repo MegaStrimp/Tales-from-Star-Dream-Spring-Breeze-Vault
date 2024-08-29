@@ -4,18 +4,203 @@
     "type": "split",
     "children": [
       {
-        "id": "2317edd9a5237ee9",
+        "id": "1ce8daed77e88afa",
         "type": "tabs",
         "children": [
           {
-            "id": "19eaef8a924751d1",
+            "id": "05ca494a52f78816",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pages/Tales from Star Dream ~ Spring Breeze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "759ff236a2e760de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Mt Dedede.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde030d7789046c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Changelog - Version 0.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a2324fa46e7c757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Gordo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec164d2711e136a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Gordo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b7a942fcc4a9e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Gordo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba4ee91daa7d560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Float Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4320e9af6160a32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Castle Lololo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d02429e99cb50e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e82caf9ab0a535b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35cd4695b393813e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0a7241dd72fd27f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90578979d0737397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Twizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "149d876e015e1c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Grizzo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21a2bcd6e10c58d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ef8837950007280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5,
-    "collapsed": true
+    "width": 580.5
   },
   "right": {
     "id": "dc4dcd87cbe69539",
@@ -82,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pages/TfSD SB - Changelog - Version 0.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pages/TfSD SB - Changelog - Version 0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pages/TfSD SB - Changelog - Version 0.1.md"
+              }
             }
           }
         ]
@@ -140,42 +328,45 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "19eaef8a924751d1",
+  "active": "fde030d7789046c8",
   "lastOpenFiles": [
-    "Pages/TfSD SB - Credits.md",
+    "Pages/TfSD SB - Changelog - Version 0.2.md",
+    "Pages/TfSD SB - Changelog - Version 0.3.md",
     "Pages/TfSD SB - Changelog - Version 0.4.md",
+    "Pages/TfSD SB - Changelog - Version 0.1.md",
+    "Pages/TfSD SB - Stages - Mt Dedede.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Enemies - Gordo.md",
+    "TfSD SB - Stage Elements - End Kirby.md",
+    "Pages/TfSD SB - Progression.md",
+    "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "Pages/TfSD SB - Enemies - Cappy.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Enemies - Twizzy.md",
+    "Pages/TfSD SB - Enemies - Grizzo.md",
+    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+    "Pages/TfSD SB - Player - King Dedede.md",
+    "Pages/TfSD SB - Player - Kirby.md",
+    "Pages/TfSD SB - Player - Meta Knight.md",
+    "Pages/TfSD SB - UI - Character Select Screen.md",
+    "Images/TfSD SB - Image - UI - Character Select Screen.png.0.pdnSave",
+    "Images/TfSD SB - Image - UI - Character Select Screen.png",
+    "Images/TfSD SB - Image - UI - Main Menu.png",
+    "Pages/TfSD SB - UI - Config Mode.md",
+    "Pages/TfSD SB - UI - Main Menu.md",
+    "Images/TfSD SB - Image - UI - Scene Select.png",
+    "Pages/TfSD SB - UI - Scene Select.md",
+    "Pages/TfSD SB - Story.md",
+    "Images/TfSD SB - Image - UI - Data Select.png",
     "Images/TfSD SB - Image - UI - Splash Screen.png",
     "Images/TfSD SB - Images - Enemy Categories - Boss.png",
     "Images/TfSD SB - Images - Enemy Categories - Miniboss.png",
     "Images/TfSD SB - Images - Enemy Categories - Normal.png",
-    "Pages/TfSD SB - UI - Title Screen.md",
-    "Pages/TfSD SB - UI - Splash Screen.md",
-    "README.md",
-    "2024-08-22.md",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Story.md",
-    "Pages/TfSD SB - UI - Button Remap.md",
-    "Pages/TfSD SB - UI - Config Mode.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
-    "Pages/TfSD SB - Player - King Dedede.md",
-    "Pages/TfSD SB - Player - Meta Knight.md",
-    "Pages/TfSD SB - Player - Kirby.md",
-    "Pages/TfSD SB - Progression.md",
-    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Stage Elements - Spike.md",
-    "Pages/TfSD SB - Stage Elements - Water.md",
-    "Pages/TfSD SB - Enemy Categories - Normal.md",
-    "Pages/TfSD SB - UI - HUD.md",
-    "Pages/TfSD SB - Enemy Categories - Miniboss.md",
-    "Pages/TfSD SB - Enemy Categories - Boss.md",
-    "Pages/TfSD SB - UI - Pause Screen.md",
-    "Pages/TfSD SB - UI - Main Menu.md",
-    "Pages/TfSD SB - Stage Elements - Star Block.md",
     "Images/TfSD SB - Image - Stage Elements - Door.png",
     "Images/TfSD SB - Image - Stage Elements - Water.png",
-    "Images/TfSD SB - Image - Stage Elements - Spike.png",
-    "Images/TfSD SB - Image - Stage Elements - Star Block.png",
     "Images/TfSD SB - Image - Items - 1-Up.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Maxim Tomato.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Bomb.png.0.pdnSave",
@@ -185,9 +376,6 @@
     "Images/TfSD SB - Image - Items - Energy Drink.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Sparkling Star.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Superspicy Curry.png.0.pdnSave",
-    "Images/TfSD SB - Image - Items - Warp Star.png.0.pdnSave",
-    "Images/TfSD SB - Image - Items - 1-Up.png",
-    "Images/TfSD SB - Image - Items - Warp Star.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

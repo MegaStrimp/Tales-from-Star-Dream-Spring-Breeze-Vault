@@ -13,3 +13,5 @@ The enemy does constant little jumps and walks back and forth without friction. 
 The enemy does constant little jumps and walks back and forth without friction.
 #### Walk and Turn Short
 The enemy does constant little jumps and walks back and forth without friction in a shorter distance.
+#### Stand
+The enemy does constant little jumps, turns around and stands still.

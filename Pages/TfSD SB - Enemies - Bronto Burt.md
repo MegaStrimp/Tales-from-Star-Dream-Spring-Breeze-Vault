@@ -24,3 +24,11 @@ The enemy flies up and down without friction with a longer period.
 Same as [[TfSD SB - Enemies - Bronto Burt#Circle Chase|Circle Chase]] but the enemy can't change direction, and activates when the player exceeds their x position to the direction the enemy is facing.
 #### Circle Chase Double
 The enemy activates when the player exceeds their x position to the direction the enemy is facing, moves downward while following the player's direction, does a double circular move once it's y position reaches one tile under the player, and flies straight horizontally when the circle is done.
+#### Fly Straight Horizontal Fast
+The enemy flies straight horizontally with a fast, accelerating speed.
+#### Circle Dash
+The enemy does a circular move, then dashes forward with an accelerating speed.
+#### Fly Straight Horizontal Long
+The enemy flies straight horizontally with a bigger amplitude.
+#### Circle Dash Stand
+The enemy stands still for a few frames, does a circular move, then dashes forward with an accelerating speed.

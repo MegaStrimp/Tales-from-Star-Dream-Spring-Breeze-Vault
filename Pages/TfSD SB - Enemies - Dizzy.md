@@ -9,3 +9,11 @@ Tumbling through the air, this strange creature flies in a straight line or boun
 The enemy flies straight vertically.
 #### Charge Horizontal
 The enemy charges for a few seconds and flies horizontally to the direction they're facing.
+#### Appear When Top
+The enemy flies straight vertically if the player is on top of it.
+#### Appear Close
+The enemy flies straight vertically if the player is one tile close to it.
+#### Triangle
+The enemy follows a very specific triangular path.
+#### Square Wave
+The enemy moves like a square wave to the direction it's facing.

@@ -11,5 +11,9 @@ The enemy walks on a straight line and changes direction when it touches a wall.
 The enemy walks back and forth in a wave-like behavior. The animation speed changes based on the movement.
 #### Walk and Turn Fast
 The enemy walks back and forth in a wave-like behavior, in a faster manner. The animation speed changes based on the movement.
+#### Walk and Jump
+The enemy walks back and forth, but their turn timer decreases by half a tile every time they finish their route. When the timer is at zero, the enemy jumps and the timer resets. The enemy's jump is not effected by collision.
 #### Parasol
 **Points -** 600
+
+The enemy moves back and forth while going downwards. When they touch ground or the timer is done, they spawn a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] and switch to [[TfSD SB - Enemies - Waddle Dee#Walk|Waddle Dee - Walk]].

@@ -74,6 +74,7 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - Stage Elements - Water|Water]]
 * [[TfSD SB - Stage Elements - Spike|Spike]]
 * [[TfSD SB - Stage Elements - Door|Door]]
+* [[TfSD SB - Stage Elements - End Kirby|End Kirby]] (ADD)
 ## Items
 * [[TfSD SB - Items - 1-Up|1-Up]]
 * [[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
@@ -88,16 +89,17 @@ Created in GameMaker and StarDream Framework.
 ## User Interface
 * [[TfSD SB - UI - Splash Screen|Splash Screen]]
 * [[TfSD SB - UI - Title Screen|Title Screen]] (ADD IMAGE)
-* [[TfSD SB - UI - Data Select|Data Select]] (ADD IMAGE)
+* [[TfSD SB - UI - Data Select|Data Select]] 
 * [[TfSD SB - UI - Main Menu|Main Menu]]
 * [[TfSD SB - UI - Scene Select|Scene Select]]
 * [[TfSD SB - UI - Sound Test|Sound Test]]
 * [[TfSD SB - UI - Config Mode|Config Mode]]
 * [[TfSD SB - UI - Button Remap|Keyboard Remap]] (ADD IMAGE)
 * [[TfSD SB - UI - Credits Screen|Credits Screen]] (ADD IMAGE)
-* [[TfSD SB - UI - Character Select|Character Select]] (ADD IMAGE)
+* [[TfSD SB - UI - Character Select Screen|Character Select Screen]] (ADD IMAGE)
 * [[TfSD SB - UI - HUD|HUD]]
 * [[TfSD SB - UI - Pause Screen|Pause Screen]]
+* [[TfSD SB - UI - Game Over Screen|Game Over Screen]] (ADD)
 ## Gamemodes
 * [[TfSD SB - Gamemodes - Main Game|Main Game]] (ADD IMAGE)
 * [[TfSD SB - Gamemodes - Extra Game|Extra Game]] (ADD IMAGE)

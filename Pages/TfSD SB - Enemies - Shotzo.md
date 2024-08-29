@@ -14,3 +14,5 @@ The enemy bounces a tile above and does a three-way attack. Both actions are asy
 The enemy shoots three times upwards after a few seconds of reload time.
 #### Shoot Turn
 The enemy shoots and turns to the next direction available.
+#### Shoot Up
+The enemy shoots three times downwards after a few seconds of reload time. Each shot moves the enemy upwards and while it's charging, the enemy moves downwards.
