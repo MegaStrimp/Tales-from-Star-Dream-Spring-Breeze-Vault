@@ -31,6 +31,13 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 > * Boss Camera Lock
 #### Mt Dedede - Level 4
 ##### Enemies
+[[TfSD SB - Enemies - Mumbies#Up and Down|Mumbies - Up and Down]]
+[[TfSD SB - Enemies - Two Face#Follow Player|Two Face - Follow Player]]
+[[TfSD SB - Enemies - Broom Hatter#Walk and Jump|Broom Hatter - Walk and Jump]]
+[[TfSD SB - Enemies - Glunk#Shoot Horizontal|Glunk - Shoot Horizontal]]
+[[TfSD SB - Enemies - Booler#Up and Down|Booler - Up and Down]]
+[[TfSD SB - Enemies - Flapper#Walk and Turn|Flapper - Walk and Turn]]
+[[TfSD SB - Enemies - Chuckie#Triple Bounce|Chuckie - Triple Bounce]]
 [[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - End Kirby|End Kirby]]
@@ -48,6 +55,12 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 > * Go To Room After Boss Dies
 #### Mt Dedede - Level 6
 ##### Enemies
+[[TfSD SB - Enemies - Coconut#Fall to Player|Coconut - Fall to Player]]
+[[TfSD SB - Enemies - Blipper#Stand and Jump|Blipper - Stand and Jump]]
+[[TfSD SB - Enemies - Squishy#Walk and Turn|Squishy - Walk and Turn]]
+[[TfSD SB - Enemies - Wizzer#Attack|Wizzer - Attack]]
+[[TfSD SB - Enemies - Kabu#Jump and Turn|Kabu - Jump and Turn]]
+[[TfSD SB - Enemies - Coner#Dash Turn|Coner - Dash Turn]]
 [[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Spike|Spike]]
@@ -67,11 +80,19 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 > * Go To Room After Boss Dies
 #### Mt Dedede - Level 8
 ##### Enemies
+[[TfSD SB - Enemies - Puffy#Diagonal|Puffy - Diagonal]]
+[[TfSD SB - Enemies - Kookler#Triangle|Kookler - Triangle]]
+[[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
+[[TfSD SB - Enemies - Sir Kibble#Stand and Attack|Sir Kibble - Stand and Attack]]
+[[TfSD SB - Enemies - Dizzy#Walk and Turn|Dizzy - Walk and Turn]]
+[[TfSD SB - Enemies - Waddle Dee#Parasol Walk|Waddle Dee - Parasol Walk]]
+[[TfSD SB - Enemies - Waddle Doo#Parasol Walk|Waddle Doo - Parasol Walk]]
+[[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - End Kirby|End Kirby]]
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
--
+> * Falling Stars
 #### Mt Dedede - Level 9
 ##### Enemies
 [[TfSD SB - Enemies - Kracko#Normal|Kracko - Normal]] (ADD)
@@ -89,24 +110,35 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 ### Extra Levels
 #### Mt Dedede - Level 1
 ##### Enemies
+-
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+> * Warp Star Start, Path & Camera Movement
 #### Mt Dedede - Level 2
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
 #### Mt Dedede - Level 3
 ##### Enemies
+[[TfSD SB - Enemies - Whispy Woods#Normal|Whispy Woods - Normal]] (ADD)
+[[TfSD SB - Enemies - Apple#Bounce|Apple - Bounce]]
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Boss Camera Lock
 #### Mt Dedede - Level 4
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
 #### Mt Dedede - Level 5
-##### Enemies
+[[TfSD SB - Enemies - Lololo & Lalala Controller#Extra|Lololo & Lalala Controller - Extra]] (ADD)
+[[TfSD SB - Enemies - Lololo#Extra|Lololo - Extra]] (ADD)
+[[TfSD SB - Enemies - Lalala#Extra|Lalala - Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Go To Room After Boss Dies
 #### Mt Dedede - Level 6
 ##### Enemies
 ##### Stage Elements
@@ -121,9 +153,15 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 ##### Special Behaviors
 #### Mt Dedede - Level 9
 ##### Enemies
+[[TfSD SB - Enemies - Kracko#Extra|Kracko - Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Go To Room After Boss Dies
 #### Mt Dedede - Level 10
 ##### Enemies
+[[TfSD SB - Enemies - King Dedede#Extra|King Dedede - Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Cutscene After Boss Dies

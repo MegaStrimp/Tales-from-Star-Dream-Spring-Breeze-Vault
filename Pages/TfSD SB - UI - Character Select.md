@@ -1,5 +1,5 @@
-## Character Select Screen
-![[TfSD SB - Image - UI - Character Select Screen.png]]
+## Character Select
+![[TfSD SB - Image - UI - Character Select.png]]
 A menu where the player can choose a character and skin before starting a stage. On the screen, we see the list of all available characters doing a little dance, and a spotlight pointed at the currently selected character.
 
 Pressing Left/Right keys scrolls through the characters while pressing Up/Down keys scrolls through the character skins. This may not work depending on the player's unlocks.

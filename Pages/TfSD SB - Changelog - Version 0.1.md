@@ -8,7 +8,7 @@
 - [ ] Added the Config Mode Screen
 - [ ] Added the Button Remap Screen
 - [ ] Added the Credits Screen
-- [ ] Added the Character Select Screen
+- [ ] Added the Character Select
 - [ ] Added the Pause Screen
 - [ ] Added the Game Over Screen
 - [x] Added some Stage Palettes
@@ -20,5 +20,5 @@
 - [ ] Added Discord Rich Presence
 ### Notes
 * King Dedede, Meta Knight, and skin selections are enabled for testing purposes. Skins have no difference in-game yet.
-* Main Menu, Scene Select, Sound Test and Config Mode have all options available for testing purposes. EX Mode levels can also be selected, but will crash your game.
+* Main Menu, Scene Select, Character Select, Sound Test and Config Mode have all options available for testing purposes. EX Mode levels can also be selected, but will crash your game.
 * All the enemies in stages other than Green Greens, along with the items newly introduced there, will be static.

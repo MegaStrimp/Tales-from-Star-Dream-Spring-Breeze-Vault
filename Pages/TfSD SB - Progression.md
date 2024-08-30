@@ -5,6 +5,6 @@ By inhaling an enemy or object, Kirby can either spit them back out as a Star Bu
 
 Tales of Star Dream ~ Spring Breeze is a remake of Kirby's Dream Land which adds new playable characters, quality of life features, two new gamemodes, a secret boss, and much more.
 
-Unlike in the original game, the player's save file now has meta-progression and they're expected to beat every gamemode to get a 100% file completion, and to beat them all with each character as an optional challenge. Beating a gamemode with a character gives them a little checkmark on the Character Select Screen.
+Unlike in the original game, the player's save file now has meta-progression and they're expected to beat every gamemode to get a 100% file completion, and to beat them all with each character as an optional challenge. Beating a gamemode with a character gives them a little checkmark on the Character Select.
 
 Beating Main Game unlocks playable Meta Knight and two new gamemodes, being Extra Game and The Arena; and beating the Extra Game unlocks playable King Dedede and True Arena, which offers a new secret boss at the end. The new characters each have a new music track playing at their Boss and Final Boss challenges.

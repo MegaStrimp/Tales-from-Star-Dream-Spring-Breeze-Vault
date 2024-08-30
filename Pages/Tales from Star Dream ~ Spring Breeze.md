@@ -96,7 +96,7 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - UI - Config Mode|Config Mode]]
 * [[TfSD SB - UI - Button Remap|Keyboard Remap]] (ADD IMAGE)
 * [[TfSD SB - UI - Credits Screen|Credits Screen]] (ADD IMAGE)
-* [[TfSD SB - UI - Character Select Screen|Character Select Screen]] (ADD IMAGE)
+* [[TfSD SB - UI - Character Select|Character Select]] (ADD IMAGE)
 * [[TfSD SB - UI - HUD|HUD]]
 * [[TfSD SB - UI - Pause Screen|Pause Screen]]
 * [[TfSD SB - UI - Game Over Screen|Game Over Screen]] (ADD)

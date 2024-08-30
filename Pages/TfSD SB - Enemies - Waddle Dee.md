@@ -16,4 +16,8 @@ The enemy walks back and forth, but their turn timer decreases by half a tile ev
 #### Parasol
 **Points -** 600
 
-The enemy moves back and forth while going downwards. When they touch ground or the timer is done, they spawn a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] and switch to [[TfSD SB - Enemies - Waddle Dee#Walk|Waddle Dee - Walk]].
+The enemy moves back and forth while going downwards. When the enemy touches the ground, get defeated, or when the timer is done, it spawn a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] and switch to [[TfSD SB - Enemies - Waddle Dee#Walk|Waddle Dee - Walk]].
+#### Parasol Walk
+**Points -** 600
+
+The enemy walks back and forth in a wave-like behavior. The enemy spawns a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] when it gets defeated.

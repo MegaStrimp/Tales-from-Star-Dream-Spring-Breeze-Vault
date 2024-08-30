@@ -17,3 +17,5 @@ The enemy flies straight vertically if the player is one tile close to it.
 The enemy follows a very specific triangular path.
 #### Square Wave
 The enemy moves like a square wave to the direction it's facing.
+#### Walk and Turn
+The enemy flies back and forth in a wave-like behavior. 
