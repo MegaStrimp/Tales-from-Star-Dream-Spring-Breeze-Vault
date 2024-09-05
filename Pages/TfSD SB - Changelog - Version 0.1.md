@@ -1,22 +1,22 @@
 ## Version 0.1 Changelog
 ### Additions
+- [ ] Added Kirby Playable Character
+- [x] Added King Dedede Playable Character
+- [x] Added Meta Knight Playable Character
 - [ ] Added the Title Screen
 - [x] Added the Data Select Screen
 - [x] Added the Main Menu
 - [x] Added the Scene Select Screen
 - [ ] Added the Sound Test Screen
-- [ ] Added the Config Mode Screen
+- [x] Added the Config Mode Screen
 - [ ] Added the Button Remap Screen
 - [ ] Added the Credits Screen
 - [ ] Added the Character Select
 - [ ] Added the Pause Screen
 - [ ] Added the Game Over Screen
+- [ ] Added Stage 1 - Green Greens
 - [x] Added some Stage Palettes
 - [x] Implemented the ZincLock System
-- [ ] Added Kirby Playable Character
-- [x] Added King Dedede Playable Character
-- [x] Added Meta Knight Playable Character
-- [ ] Added Stage 1 - Green Greens
 - [ ] Added Discord Rich Presence
 ### Notes
 * King Dedede, Meta Knight, and skin selections are enabled for testing purposes. Skins have no difference in-game yet.

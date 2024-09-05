@@ -74,7 +74,7 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - Stage Elements - Water|Water]]
 * [[TfSD SB - Stage Elements - Spike|Spike]]
 * [[TfSD SB - Stage Elements - Door|Door]]
-* [[TfSD SB - Stage Elements - End Kirby|End Kirby]] (ADD)
+* [[TfSD SB - Stage Elements - End Kirby|End Kirby]]
 ## Items
 * [[TfSD SB - Items - 1-Up|1-Up]]
 * [[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]

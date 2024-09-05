@@ -6,7 +6,7 @@
 #### Art Designer
 * Subsandwich
 * SideLineGames
-#### DX Palettes
+#### Remix Palettes
 * Rabbid
 #### Additional Music
 * Tater-Tot Tunes
@@ -17,6 +17,7 @@
 * Shinton
 * WaddleDev
 * ShadowKingSonic
+* Zuperzach
 
 * From Strimp's Kitchen
 * Created With GameMaker & StarDream Framework
@@ -37,6 +38,8 @@
 #### Special Thanks
 * Bubby
 * Cipher
+#### Supervisor
+* Bou Nakajima
 ## Document Credits
 * Strimp - Creator
 * Wikirby - Certain Entries
