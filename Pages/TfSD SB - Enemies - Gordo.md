@@ -11,4 +11,4 @@ The enemy flies up and down in a wave-like behavior. The animation speed changes
 #### Zig Zag
 The enemy follows a zig zag path based on it's movement.
 #### Door
-The enemy flies up and down for half a tile without friction. Deals six bars of damage.
+The enemy flies up and down for half a tile without friction. Deals equal damage to the player's max health.

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e580c05ab2b27e8",
+            "id": "1ca58c6c8758f0b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,36 @@
             }
           },
           {
-            "id": "2c47064b48fa04ad",
+            "id": "6bc3051e8f07a3a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Twizzy.md",
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a3c8ba26fb91771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c30de487f3b5858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Twizzy.md",
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Twizzy.md",
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Twizzy.md"
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md"
               }
             }
           }
@@ -161,37 +185,37 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2c47064b48fa04ad",
+  "active": "6bc3051e8f07a3a0",
   "lastOpenFiles": [
     "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Enemies - Waddle Dee.md",
-    "Pages/TfSD SB - Enemies - Twizzy.md",
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
     "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
-    "Pages/TfSD SB - Enemies - Apple.md",
+    "Pages/TfSD SB - Enemies - Cappy.md",
+    "Pages/TfSD SB - Enemies - Cappy Cap.md",
     "Pages/TfSD SB - Enemies - Grizzo.md",
+    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Enemies - Gordo.md",
+    "Pages/TfSD SB - Enemies - Dizzy.md",
+    "Pages/TfSD SB - Enemies - Scarfy.md",
+    "Pages/TfSD SB - Enemies - Glunk.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
+    "Pages/TfSD SB - Enemies - Waddle Doo.md",
+    "Pages/TfSD SB - Enemies - Mumbies.md",
+    "Pages/TfSD SB - Enemies - Puffy.md",
+    "Pages/TfSD SB - Enemies - Booler.md",
+    "Pages/TfSD SB - Enemies - Twizzy.md",
+    "Pages/TfSD SB - Enemies - Apple.md",
     "Pages/TfSD SB - Credits.md",
     "Pages/TfSD SB - Stages - Green Greens.md",
-    "Pages/TfSD SB - Enemies - Cappy.md",
     "Pages/TfSD SB - Enemies - Whispy Woods.md",
     "Pages/TfSD SB - Changelog - Version 0.1.md",
     "Pages/TfSD SB - Player - King Dedede.md",
     "Pages/TfSD SB - Player - Meta Knight.md",
     "TfSD SB - Image - Stage Elements - End Kirby.png",
     "TfSD SB - Stage Elements - End Kirby.md",
-    "Pages/TfSD SB - Stage Elements - Spike.md",
-    "Pages/TfSD SB - Items - 1-Up.md",
-    "Pages/TfSD SB - Items - Maxim Tomato.md",
-    "TfSD SB - UI - Game Over Screen.md",
-    "Pages/TfSD SB - Gamemodes - True Arena.md",
-    "Pages/TfSD SB - UI - Config Mode.md",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",
-    "Pages/TfSD SB - UI - Character Select.md",
     "Images/TfSD SB - Image - UI - Character Select.png.0.pdnSave",
-    "Pages/TfSD SB - Stages - Mt Dedede.md",
-    "Pages/TfSD SB - Stages - Float Islands.md",
-    "Pages/TfSD SB - Enemies - Coner.md",
-    "Pages/TfSD SB - Enemies - Kabu.md",
     "Images/TfSD SB - Image - UI - Character Select.png",
     "Images/TfSD SB - Image - UI - Character Select Screen.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Main Menu.png",

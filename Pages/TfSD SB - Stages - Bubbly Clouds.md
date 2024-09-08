@@ -43,7 +43,7 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 -
 #### Bubbly Clouds - Level 3
 ##### Enemies
-[[TfSD SB - Enemies - Waddle Dee#Walk and Jump|Waddle Dee - Walk and Jump]]
+[[TfSD SB - Enemies - Waddle Dee#Walk Decrease|Waddle Dee - Walk Decrease]]
 [[TfSD SB - Enemies - Kookler#Triangle|Kookler - Triangle]]
 [[TfSD SB - Enemies - Dizzy#Triangle|Dizzy - Triangle]]
 [[TfSD SB - Enemies - Gordo#Zig Zag|Gordo - Zig Zag]]
