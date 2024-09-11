@@ -13,38 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/Tales from Star Dream ~ Spring Breeze.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6bc3051e8f07a3a0",
+            "id": "b2b3e083ef71cbdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a3c8ba26fb91771",
+            "id": "0f8505381c63ff2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c30de487f3b5858",
+            "id": "b6423d64c95262ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Mt Dedede.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68af9a552cd97d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,9 +66,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e95b39bb70b6b9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e67f84569b6f26a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Changelog - Version 0.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"cappy - stand\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,12 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "dc4dcd87cbe69539",
@@ -123,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "file": "Pages/TfSD SB - Enemies - Cappy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md"
+                "file": "Pages/TfSD SB - Enemies - Cappy.md"
               }
             }
           }
@@ -185,15 +221,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6bc3051e8f07a3a0",
+  "active": "68af9a552cd97d64",
   "lastOpenFiles": [
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "Pages/TfSD SB - Stages - Mt Dedede.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
     "Pages/TfSD SB - Enemies - Cappy.md",
+    "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Changelog - Version 0.1.md",
+    "TfSD SB - UI - Continue.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "TfSD SB - UI - Game Over.md",
     "Pages/TfSD SB - Enemies - Cappy Cap.md",
     "Pages/TfSD SB - Enemies - Grizzo.md",
     "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
     "Pages/TfSD SB - Enemies - Gordo.md",
     "Pages/TfSD SB - Enemies - Dizzy.md",
     "Pages/TfSD SB - Enemies - Scarfy.md",
@@ -207,13 +249,8 @@
     "Pages/TfSD SB - Enemies - Twizzy.md",
     "Pages/TfSD SB - Enemies - Apple.md",
     "Pages/TfSD SB - Credits.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
     "Pages/TfSD SB - Enemies - Whispy Woods.md",
-    "Pages/TfSD SB - Changelog - Version 0.1.md",
-    "Pages/TfSD SB - Player - King Dedede.md",
-    "Pages/TfSD SB - Player - Meta Knight.md",
     "TfSD SB - Image - Stage Elements - End Kirby.png",
-    "TfSD SB - Stage Elements - End Kirby.md",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Character Select.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Character Select.png",
@@ -225,7 +262,6 @@
     "Images/TfSD SB - Images - Enemy Categories - Boss.png",
     "Images/TfSD SB - Images - Enemy Categories - Miniboss.png",
     "Images/TfSD SB - Images - Enemy Categories - Normal.png",
-    "Images/TfSD SB - Image - Stage Elements - Door.png",
     "Images/TfSD SB - Image - Items - 1-Up.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Maxim Tomato.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Bomb.png.0.pdnSave",

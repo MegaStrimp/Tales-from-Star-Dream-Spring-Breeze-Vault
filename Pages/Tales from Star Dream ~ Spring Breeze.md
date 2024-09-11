@@ -16,7 +16,6 @@ Created in GameMaker and StarDream Framework.
 ## Enemies
 * [[TfSD SB - Enemies - Waddle Dee|Waddle Dee]]
 * [[TfSD SB - Enemies - Cappy|Cappy]]
-* [[TfSD SB - Enemies - Cappy Cap|Cappy Cap]]
 * [[TfSD SB - Enemies - Bronto Burt|Bronto Burt]]
 * [[TfSD SB - Enemies - Twizzy|Twizzy]]
 * [[TfSD SB - Enemies - Poppy Bros. Jr.|Poppy Bros. Jr.]]
@@ -99,7 +98,8 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - UI - Character Select|Character Select]] (ADD IMAGE)
 * [[TfSD SB - UI - HUD|HUD]]
 * [[TfSD SB - UI - Pause Screen|Pause Screen]]
-* [[TfSD SB - UI - Game Over Screen|Game Over Screen]] (ADD)
+* [[TfSD SB - UI - Game Over|Game Over]] (ADD)
+* [[TfSD SB - UI - Continue|Continue]] (ADD)
 ## Gamemodes
 * [[TfSD SB - Gamemodes - Main Game|Main Game]] (ADD IMAGE)
 * [[TfSD SB - Gamemodes - Extra Game|Extra Game]] (ADD IMAGE)
