@@ -7,3 +7,5 @@ This white rooster flies in a straight line or sits on the ground until the play
 
 It is the [[TfSD SB - Gamemodes - Extra Game|Extra Game]] version of [[TfSD SB - Enemies - Twizzy|Twizzy]]
 ### AI States
+#### Fly Straight Horizontal
+The enemy flies straight horizontally. The y offset and speed changes based on the image frame.

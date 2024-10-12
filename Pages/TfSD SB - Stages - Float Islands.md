@@ -106,35 +106,35 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 ##### Special Behaviors
 > * Boss Camera Movement
 ### Extra Levels
-#### Float Islands - Level 1
+#### Float Islands EX - Level 1
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 2
+#### Float Islands EX - Level 2
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 3
+#### Float Islands EX - Level 3
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 4
+#### Float Islands EX - Level 4
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 5
+#### Float Islands EX - Level 5
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 6
+#### Float Islands EX - Level 6
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 7
+#### Float Islands EX - Level 7
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Float Islands - Level 8
+#### Float Islands EX - Level 8
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors

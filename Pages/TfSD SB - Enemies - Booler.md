@@ -9,8 +9,6 @@ This ghost floats in circles or jumps around.
 The enemy walks on a straight line and changes direction when it touches a wall. Room boundaries and gravity don't effect them.
 #### Jump and Float
 The enemy jumps, floats in a curve, lands back to the opposite side, the does another curve to land back to their spawn.
-#### Jump and Float Back
-The enemy follows the same path as [[TfSD SB - Enemies - Booler#Jump and Float|Jump and Float]] in reverse.
 #### Circle
 The enemy waits a little bit, does a circular move, and flies straight to where they're facing when the circle is done.
 #### Up and Down

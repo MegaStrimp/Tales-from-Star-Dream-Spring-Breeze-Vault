@@ -125,43 +125,43 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 ##### Special Behaviors
 -
 ### Extra Levels
-#### Bubbly Clouds - Level 1
+#### Bubbly Clouds EX - Level 1
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 2
+#### Bubbly Clouds EX - Level 2
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 3
+#### Bubbly Clouds EX - Level 3
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 4
+#### Bubbly Clouds EX - Level 4
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 5
+#### Bubbly Clouds EX - Level 5
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 6
+#### Bubbly Clouds EX - Level 6
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 7
+#### Bubbly Clouds EX - Level 7
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 8
+#### Bubbly Clouds EX - Level 8
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 9
+#### Bubbly Clouds EX - Level 9
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Bubbly Clouds - Level 10
+#### Bubbly Clouds EX - Level 10
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors

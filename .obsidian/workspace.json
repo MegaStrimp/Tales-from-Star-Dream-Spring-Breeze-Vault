@@ -10,17 +10,19 @@
           {
             "id": "1ca58c6c8758f0b9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Green Greens.md",
+                "file": "Pages/Tales from Star Dream ~ Spring Breeze.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "b2b3e083ef71cbdc",
+            "id": "af0e71a1209ebe78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +34,43 @@
             }
           },
           {
-            "id": "0f8505381c63ff2e",
+            "id": "1373a6978cea5c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Stages - Green Greens.md",
+                "file": "Pages/TfSD SB - Stages - Bubbly Clouds.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6423d64c95262ca",
+            "id": "060024a0d2b43723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Castle Lololo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d2cbc7d6b3652dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Stages - Float Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "629ef6706826f0bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +82,31 @@
             }
           },
           {
-            "id": "68af9a552cd97d64",
+            "id": "287d90717f06844e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Grizzo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f46297338e911b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Blopper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7409dfdc1aa6d923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,31 +118,79 @@
             }
           },
           {
-            "id": "e95b39bb70b6b9d1",
+            "id": "126c97127ed903e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "file": "Pages/TfSD SB - Enemies - Blopper.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e67f84569b6f26a4",
+            "id": "08c2352371bc32d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Changelog - Version 0.1.md",
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5b8e019d269416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Koozer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdcd917ccb71e5f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Tookey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d35dc94476eb9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Twizzy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f23b0a862ae353a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Waddle Dee.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +219,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"cappy - stand\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +236,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Cappy.md",
+                "file": "Pages/TfSD SB - Stages - Green Greens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Cappy.md"
+                "file": "Pages/TfSD SB - Stages - Green Greens.md"
               }
             }
           }
@@ -221,36 +318,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "68af9a552cd97d64",
+  "active": "af0e71a1209ebe78",
   "lastOpenFiles": [
     "Pages/TfSD SB - Stages - Mt Dedede.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
-    "Pages/TfSD SB - Enemies - Cappy.md",
-    "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Changelog - Version 0.1.md",
-    "TfSD SB - UI - Continue.md",
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
-    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
-    "TfSD SB - UI - Game Over.md",
-    "Pages/TfSD SB - Enemies - Cappy Cap.md",
-    "Pages/TfSD SB - Enemies - Grizzo.md",
+    "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
     "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Enemies - Grizzo.md",
+    "Pages/TfSD SB - Enemies - Blopper.md",
+    "Pages/TfSD SB - Enemies - Cappy.md",
+    "Pages/TfSD SB - Enemies - Blipper.md",
+    "Pages/TfSD SB - Enemies - Koozer.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Enemies - Tookey.md",
+    "Pages/TfSD SB - Enemies - Twizzy.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
+    "Pages/TfSD SB - Enemies - Flapper.md",
+    "Pages/TfSD SB - Enemies - Booler.md",
+    "Pages/TfSD SB - Stage Elements - End Kirby.md",
+    "Pages/TfSD SB - Changelog - Version 0.1.md",
+    "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
+    "Pages/TfSD SB - UI - Continue.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "Pages/TfSD SB - UI - Game Over.md",
+    "Pages/TfSD SB - Enemies - Cappy Cap.md",
     "Pages/TfSD SB - Enemies - Gordo.md",
     "Pages/TfSD SB - Enemies - Dizzy.md",
     "Pages/TfSD SB - Enemies - Scarfy.md",
-    "Pages/TfSD SB - Enemies - Glunk.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Enemies - Waddle Dee.md",
-    "Pages/TfSD SB - Enemies - Waddle Doo.md",
-    "Pages/TfSD SB - Enemies - Mumbies.md",
-    "Pages/TfSD SB - Enemies - Puffy.md",
-    "Pages/TfSD SB - Enemies - Booler.md",
-    "Pages/TfSD SB - Enemies - Twizzy.md",
-    "Pages/TfSD SB - Enemies - Apple.md",
-    "Pages/TfSD SB - Credits.md",
-    "Pages/TfSD SB - Enemies - Whispy Woods.md",
-    "TfSD SB - Image - Stage Elements - End Kirby.png",
+    "Images/TfSD SB - Image - Stage Elements - End Kirby.png",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Character Select.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Character Select.png",

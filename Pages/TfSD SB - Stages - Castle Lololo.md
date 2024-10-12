@@ -23,7 +23,6 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 #### Castle Lololo - Level 3
 ##### Enemies
 [[TfSD SB - Enemies - Booler#Jump and Float|Booler - Jump and Float]]
-[[TfSD SB - Enemies - Booler#Jump and Float Back|Booler - Jump and Float Back]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
@@ -110,7 +109,7 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 #### Castle Lololo - Level 12
 ##### Enemies
 [[TfSD SB - Enemies - Broom Hatter#Walk|Broom Hatter - Walk]]
-[[TfSD SB - Enemies - Flapper#Up Dİagonal|Flapper - Up Diagonal]]
+[[TfSD SB - Enemies - Flapper#Fly Dİagonal|Flapper - Fly Diagonal]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
@@ -155,67 +154,67 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 ##### Special Behaviors
 -
 ### Extra Levels
-#### Castle Lololo - Level 1
+#### Castle Lololo EX - Level 1
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 2
+#### Castle Lololo EX - Level 2
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 3
+#### Castle Lololo EX - Level 3
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 4
+#### Castle Lololo EX - Level 4
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 5
+#### Castle Lololo EX - Level 5
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 6
+#### Castle Lololo EX - Level 6
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 7
+#### Castle Lololo EX - Level 7
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 8
+#### Castle Lololo EX - Level 8
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 9
+#### Castle Lololo EX - Level 9
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 10
+#### Castle Lololo EX - Level 10
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 11
+#### Castle Lololo EX - Level 11
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 12
+#### Castle Lololo EX - Level 12
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 13
+#### Castle Lololo EX - Level 13
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 14
+#### Castle Lololo EX - Level 14
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 15
+#### Castle Lololo EX - Level 15
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Castle Lololo - Level 16
+#### Castle Lololo EX - Level 16
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors

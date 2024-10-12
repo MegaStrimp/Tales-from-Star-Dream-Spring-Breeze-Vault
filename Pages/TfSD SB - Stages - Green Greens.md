@@ -5,7 +5,7 @@ The first location Kirby visits is Green Greens; an area brimming with temperate
 ##### Enemies
 [[TfSD SB - Enemies - Waddle Dee#Walk|Waddle Dee - Walk]]
 [[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
-[[TfSD SB - Enemies - Twizzy#Straight Fly|Twizzy - Straight Fly]]
+[[TfSD SB - Enemies - Twizzy#Fly Straight Horizontal|Twizzy - Fly Straight Horizontal]]
 [[TfSD SB - Enemies - Twizzy#Jump|Twizzy - Jump]]
 [[TfSD SB - Enemies - Bronto Burt#Up and Down|Bronto Burt - Up and Down]]
 [[TfSD SB - Enemies - Bronto Burt#Bounce Fly|Bronto Burt - Bounce Fly]]
@@ -73,14 +73,25 @@ The first location Kirby visits is Green Greens; an area brimming with temperate
 ##### Special Behaviors
 > * Boss Camera Lock
 ### Extra Levels
-#### Green Greens - Level 1
+#### Green Greens EX - Level 1
 ##### Enemies
+[[TfSD SB - Enemies - Waddle Dee#Walk and Jump|Waddle Dee - Walk and Jump]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
+[[TfSD SB - Enemies - Tookey#Fly Straight Horizontal|Tookey - Fly Straight Horizontal]]
+[[TfSD SB - Enemies - Tookey#Fake Out|Tookey - Fake Out]]
+[[TfSD SB - Enemies - Koozer#Up and Down|Koozer - Up and Down]]
+[[TfSD SB - Enemies - Koozer#Bounce Fly|Koozer - Bounce Fly]]
+[[TfSD SB - Enemies - Blopper#Walk and Turn Cap|Blopper - Walk and Turn Cap]]
+[[TfSD SB - Enemies - Blopper#Walk and Turn|Blopper - Walk and Turn]]
+[[TfSD SB - Enemies - Blopper#Stand Cap|Blopper - Stand Cap]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn Fast|Waddle Dee - Walk and Turn Fast]]
+[[TfSD SB - Enemies - Poppy Bros. Jr.#Walk and Turn|Poppy Bros. Jr. - Walk and Turn]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
 [[TfSD SB - Items - Warp Star|Warp Star]]
 ##### Special Behaviors
 > * Warp Star Path & Camera Movement
-#### Green Greens - Level 2
+#### Green Greens EX - Level 2
 ##### Enemies
 -
 ##### Stage Elements
@@ -88,22 +99,47 @@ The first location Kirby visits is Green Greens; an area brimming with temperate
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
 ##### Special Behaviors
 -
-#### Green Greens - Level 3
+#### Green Greens EX - Level 3
 ##### Enemies
+[[TfSD SB - Enemies - Poppy Bros. Sr.#Extra|Poppy Bros. Sr. - Extra]] (ADD)
+[[TfSD SB - Enemies - Poppy Bros. Jr.#Ride Entity|Poppy Bros. Jr. - Ride Entity]]
+[[TfSD SB - Enemies - Apple#Mount|Apple - Mount]]
+[[TfSD SB - Enemies - Poppy Bros. Jr.#Walk and Turn Short|Poppy Bros. Jr. - Walk and Turn Short]]
+[[TfSD SB - Enemies - Apple#Stand|Apple - Stand]]
+[[TfSD SB - Enemies - Koozer#Up and Down|Koozer - Up and Down]]
+[[TfSD SB - Enemies - Blopper#Walk and Turn Cap|Blopper - Walk and Turn Cap]]
+[[TfSD SB - Enemies - Koozer#Bounce Fly|Koozer - Bounce Fly]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
+CONTINUE FROM HERE
+[[TfSD SB - Enemies - Bronto Burt#Circle Chase|Bronto Burt - Circle Chase]]
+[[TfSD SB - Enemies - Grizzo#Walk and Turn Fast|Grizzo - Walk and Turn Fast]]
+[[TfSD SB - Enemies - Twizzy#Straight Fly|Twizzy - Straight Fly]]
+[[TfSD SB - Enemies - Cappy#Stand Cap|Cappy - Stand Cap]]
+[[TfSD SB - Enemies - Bronto Burt#Hop and Fly|Bronto Burt - Hop and Fly]]
+[[TfSD SB - Enemies - Grizzo#Mount|Grizzo - Mount]]
+[[TfSD SB - Enemies - Grizzo#Walk and Turn Short|Grizzo - Walk and Turn Short]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Star Block|Star Block]]
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 > * Miniboss Camera Lock
-#### Green Greens - Level 4
+#### Green Greens EX - Level 4
 ##### Enemies
+[[TfSD SB - Enemies - Blopper#Walk and Turn|Blopper - Walk and Turn]]
+[[TfSD SB - Enemies - Grizzo#Walk and Turn Fast|Grizzo - Walk and Turn Fast]]
+[[TfSD SB - Enemies - Blopper#Walk and Turn Short|Blopper - Walk and Turn Short]]
+[[TfSD SB - Enemies - Tookey#Fake Out|Tookey - Fake Out]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn Fast|Waddle Dee - Walk and Turn Fast]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Star Block|Star Block]]
 [[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
-#### Green Greens - Level 5
+#### Green Greens EX - Level 5
 ##### Enemies
+[[TfSD SB - Enemies - Whispy Woods#Extra|Whispy Woods - Extra]] (ADD)
+ADD ATTACKS
 ##### Stage Elements
 [[TfSD SB - Items - Sparkling Star|Sparkling Star]]
 ##### Special Behaviors

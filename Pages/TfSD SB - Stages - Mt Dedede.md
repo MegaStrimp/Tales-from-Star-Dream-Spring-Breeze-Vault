@@ -108,30 +108,30 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 ##### Special Behaviors
 > * Cutscene After Boss Dies
 ### Extra Levels
-#### Mt Dedede - Level 1
+#### Mt Dedede EX - Level 1
 ##### Enemies
 -
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 > * Warp Star Start, Path & Camera Movement
-#### Mt Dedede - Level 2
+#### Mt Dedede EX - Level 2
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Mt Dedede - Level 3
+#### Mt Dedede EX - Level 3
 ##### Enemies
 [[TfSD SB - Enemies - Whispy Woods#Normal|Whispy Woods - Normal]] (ADD)
-[[TfSD SB - Enemies - Apple#Bounce|Apple - Bounce]]
+ADD ATTACKS
 ##### Stage Elements
 -
 ##### Special Behaviors
 > * Boss Camera Lock
-#### Mt Dedede - Level 4
+#### Mt Dedede EX - Level 4
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Mt Dedede - Level 5
+#### Mt Dedede EX - Level 5
 [[TfSD SB - Enemies - Lololo & Lalala Controller#Extra|Lololo & Lalala Controller - Extra]] (ADD)
 [[TfSD SB - Enemies - Lololo#Extra|Lololo - Extra]] (ADD)
 [[TfSD SB - Enemies - Lalala#Extra|Lalala - Extra]] (ADD)
@@ -139,26 +139,26 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 -
 ##### Special Behaviors
 > * Go To Room After Boss Dies
-#### Mt Dedede - Level 6
+#### Mt Dedede EX - Level 6
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Mt Dedede - Level 7
+#### Mt Dedede EX - Level 7
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Mt Dedede - Level 8
+#### Mt Dedede EX - Level 8
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
-#### Mt Dedede - Level 9
+#### Mt Dedede EX - Level 9
 ##### Enemies
 [[TfSD SB - Enemies - Kracko#Extra|Kracko - Extra]] (ADD)
 ##### Stage Elements
 -
 ##### Special Behaviors
 > * Go To Room After Boss Dies
-#### Mt Dedede - Level 10
+#### Mt Dedede EX - Level 10
 ##### Enemies
 [[TfSD SB - Enemies - King Dedede#Extra|King Dedede - Extra]] (ADD)
 ##### Stage Elements

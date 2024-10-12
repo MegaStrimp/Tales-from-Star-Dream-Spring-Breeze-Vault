@@ -29,6 +29,6 @@ The enemy flies straight horizontally with a fast, accelerating speed.
 #### Circle Dash
 The enemy does a circular move, then dashes forward with an accelerating speed.
 #### Fly Straight Horizontal Long
-The enemy flies straight horizontally with a bigger amplitude.
+The enemy flies straight horizontally with a bigger amplitude. The amplitude changes every 2 waves.
 #### Circle Dash Stand
 The enemy stands still for a few frames, does a circular move, then dashes forward with an accelerating speed.

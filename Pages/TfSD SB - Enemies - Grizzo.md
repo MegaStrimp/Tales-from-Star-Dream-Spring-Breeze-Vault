@@ -11,3 +11,5 @@ The enemy does constant little jumps and walks back and forth without friction.
 The enemy spawns a [[TfSD SB - Enemies - Poppy Bros. Jr.#Ride Apple|Poppy Bros. Jr. - Ride Apple]] and walks back and forth without friction. If the spawned enemy doesn't exist, the enemy dashes backwards and switches to [[TfSD SB - Enemies - Grizzo#Walk and Turn Short|Walk and Turn Short]]. Can't get inhaled.
 #### Walk and Turn Short
 The enemy does constant little jumps and walks back and forth without friction in a shorter distance.
+#### Walk and Turn Fast
+The enemy does constant little jumps and walks back and forth without friction in a faster speed.
