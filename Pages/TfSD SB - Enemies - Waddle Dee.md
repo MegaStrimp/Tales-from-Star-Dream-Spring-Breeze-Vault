@@ -23,3 +23,5 @@ The enemy moves back and forth while going downwards. When the enemy touches the
 The enemy walks back and forth in a wave-like behavior. The enemy spawns a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] when it gets defeated.
 #### Walk and Jump
 The enemy walks on a straight line, jumps every few frames and changes direction when it touches a wall. Room boundaries don't effect them.
+#### Walk and Turn Jump
+The enemy walks back and forth in a wave-like behavior and jumps when it turns back. The animation speed changes based on the movement.

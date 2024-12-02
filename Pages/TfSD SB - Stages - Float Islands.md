@@ -124,8 +124,12 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 ##### Special Behaviors
 #### Float Islands EX - Level 5
 ##### Enemies
+-
 ##### Stage Elements
+[[TfSD SB - Items - 1-Up|1-Up]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
 ##### Special Behaviors
+-
 #### Float Islands EX - Level 6
 ##### Enemies
 ##### Stage Elements

@@ -21,3 +21,5 @@ The enemy stands still while doing their walking animation in a faster pace, get
 **Points -** 600
 
 The enemy walks back and forth in a wave-like behavior. The enemy spawns a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] when it gets defeated.
+#### Walk and Turn Jump
+The enemy walks back and forth in a wave-like behavior and jumps when it turns back. The animation speed changes based on the movement.

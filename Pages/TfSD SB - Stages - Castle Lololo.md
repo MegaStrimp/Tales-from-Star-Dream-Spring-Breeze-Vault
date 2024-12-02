@@ -156,16 +156,31 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 ### Extra Levels
 #### Castle Lololo EX - Level 1
 ##### Enemies
+[[TfSD SB - Enemies - Broom Hatter#Walk Fast|Broom Hatter - Walk Fast]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Castle Lololo EX - Level 2
 ##### Enemies
+[[TfSD SB - Enemies - Koozer#Up and Down Hard|Koozer - Up and Down Hard]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn Jump|Waddle Dee - Walk and Turn Jump]]
+[[TfSD SB - Enemies - Waddle Doo#Walk and Turn Jump|Waddle Doo - Walk and Turn Jump]]
+[[TfSD SB - Enemies - Gaspar#Fly Straight Horizontal|Gaspar - Fly Straight Horizontal]]
+[[TfSD SB - Enemies - Blatzy#Shoot Straight|Blatzy - Shoot Straight]]
 ##### Stage Elements
+[[TfSD SB - Items - Mike|Mike]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Castle Lololo EX - Level 3
 ##### Enemies
+[[TfSD SB - Enemies - Gaspar#Jump and Float|Gaspar - Jump and Float]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
 ##### Special Behaviors
+-
 #### Castle Lololo EX - Level 4
 ##### Enemies
 ##### Stage Elements
@@ -188,20 +203,32 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 ##### Special Behaviors
 #### Castle Lololo EX - Level 9
 ##### Enemies
+[[TfSD SB - Enemies - Lololo#Mid Extra|Lololo - Mid Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Go To Room After Boss Dies
 #### Castle Lololo EX - Level 10
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
 #### Castle Lololo EX - Level 11
 ##### Enemies
+[[TfSD SB - Enemies - Gaspar#Jump and Squish|Gaspar - Jump and Squish]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Items - Superspicy Curry|Superspicy Curry]]
 ##### Special Behaviors
+-
 #### Castle Lololo EX - Level 12
 ##### Enemies
+[[TfSD SB - Enemies - Broom Hatter#Walk Fast|Broom Hatter - Walk Fast]]
+[[TfSD SB - Enemies - Flapper#Fly Dİagonal Fast|Flapper - Fly Diagonal Fast]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Castle Lololo EX - Level 13
 ##### Enemies
 ##### Stage Elements
@@ -212,9 +239,17 @@ Castle Lololo is the second location that Kirby visits, which features many tigh
 ##### Special Behaviors
 #### Castle Lololo EX - Level 15
 ##### Enemies
+[[TfSD SB - Enemies - Lololo & Lalala Controller#Extra|Lololo & Lalala Controller - Extra]] (ADD)
+[[TfSD SB - Enemies - Lololo#Extra|Lololo - Extra]] (ADD)
+[[TfSD SB - Enemies - Lalala#Extra|Lalala - Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Go To Room After Boss Dies
 #### Castle Lololo EX - Level 16
 ##### Enemies
+-
 ##### Stage Elements
+[[TfSD SB - Items - Sparkling Star|Sparkling Star]]
 ##### Special Behaviors
+-

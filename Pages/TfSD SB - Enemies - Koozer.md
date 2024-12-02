@@ -11,3 +11,5 @@ It is the [[TfSD SB - Gamemodes - Extra Game|Extra Game]] version of [[TfSD SB -
 The enemy flies up and down in a wave-like behavior.
 #### Bounce Fly
 The enemy flies by doing timed jumps in midair. Jump direction is based on the player's position.
+#### Up and Down Hard
+The enemy flies up and down without friction.

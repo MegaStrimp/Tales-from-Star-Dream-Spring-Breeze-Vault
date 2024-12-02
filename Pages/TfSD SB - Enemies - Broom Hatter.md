@@ -15,3 +15,5 @@ The enemy walks on a straight line and changes direction when it touches a wall.
 The enemy walks back and forth in a wave-like behavior.
 #### Walk and Turn Hard
 The enemy walks back and forth in a wave-like behavior without friction.
+#### Walk Fast
+The enemy walks on a straight line in a faster speed and changes direction when it touches a wall. Room boundaries don't effect them.

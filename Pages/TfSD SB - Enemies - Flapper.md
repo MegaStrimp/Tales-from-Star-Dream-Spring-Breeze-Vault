@@ -11,3 +11,5 @@ The enemy flies by doing timed jumps in midair. Gravity doesn't effect them.
 The enemy flies upwards diagonally to the direction they're facing.
 #### Walk and Turn
 The enemy does flies back and forth without friction in an arc.
+#### Fly Diagonal Fast
+The enemy flies upwards diagonally to the direction they're facing in a faster speed.
