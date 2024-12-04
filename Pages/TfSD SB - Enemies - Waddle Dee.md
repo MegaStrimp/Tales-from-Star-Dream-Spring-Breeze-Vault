@@ -25,3 +25,7 @@ The enemy walks back and forth in a wave-like behavior. The enemy spawns a [[TfS
 The enemy walks on a straight line, jumps every few frames and changes direction when it touches a wall. Room boundaries don't effect them.
 #### Walk and Turn Jump
 The enemy walks back and forth in a wave-like behavior and jumps when it turns back. The animation speed changes based on the movement.
+#### Walk Fast
+The enemy walks faster on a straight line and changes direction when it touches a wall. Room boundaries don't effect them.
+#### Fall
+The enemy falls down without moving. Still does it's walking animation. Room boundaries and gravity don't effect them.

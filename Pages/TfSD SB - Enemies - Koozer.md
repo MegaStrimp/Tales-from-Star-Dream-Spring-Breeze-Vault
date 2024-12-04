@@ -13,3 +13,7 @@ The enemy flies up and down in a wave-like behavior.
 The enemy flies by doing timed jumps in midair. Jump direction is based on the player's position.
 #### Up and Down Hard
 The enemy flies up and down without friction.
+#### Fly Straight Horizontal
+The enemy flies straight horizontally to the player's direction.
+#### Up and Down Hard Long
+The enemy flies up and down without friction with a longer period.

@@ -9,3 +9,5 @@ Coconuts hang on palm trees and fall down when the player gets near, exploding o
 The enemy stands idle unless a player gets under them, which then results in the enemy falling to the ground and doing a small explosion.
 #### Auto Fall
 The enemy automatically falls to the ground after a few frames and does a small explosion.
+#### Fall to Player Explode
+The enemy stands idle unless a player gets under them, which then results in the enemy falling to the ground and doing a big explosion.

@@ -116,8 +116,14 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 ##### Special Behaviors
 #### Float Islands EX - Level 3
 ##### Enemies
+[[TfSD SB - Enemies - Coconut#Auto Fall|Coconut - Auto Fall]]
+[[TfSD SB - Enemies - Gordo#Vertical Stop|Gordo - Vertical Stop]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Water|Water]]
+[[TfSD SB - Items - 1-Up|1-Up]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Float Islands EX - Level 4
 ##### Enemies
 ##### Stage Elements
@@ -130,15 +136,27 @@ The Float Islands is the third location Kirby visits, defined by its tropical se
 [[TfSD SB - Items - Energy Drink|Energy Drink]]
 ##### Special Behaviors
 -
-#### Float Islands EX - Level 6
+#### Float Islands - Level 6
 ##### Enemies
+-
 ##### Stage Elements
+[[TfSD SB - Items - Warp Star|Warp Star]]
 ##### Special Behaviors
-#### Float Islands EX - Level 7
+> * Warp Star Path & Camera Movement
+#### Float Islands - Level 7
 ##### Enemies
+-
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Cutscene
 #### Float Islands EX - Level 8
 ##### Enemies
+[[TfSD SB - Enemies - Grumples#Walk and Turn|Grumples - Walk and Turn]]
+[[TfSD SB - Enemies - Coner#Dash Walk Fast|Coner - Dash Walk Fast]]
+[[TfSD SB - Enemies - Kaboola#Extra|Kaboola - Extra]] (ADD)
 ##### Stage Elements
+[[TfSD SB - Items - Mint Leaf|Mint Leaf]]
 ##### Special Behaviors
+> * Boss Camera Movement
+> * Go To Room After Boss Dies

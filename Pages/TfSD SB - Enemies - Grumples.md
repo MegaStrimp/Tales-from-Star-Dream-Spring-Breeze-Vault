@@ -7,3 +7,7 @@ A stone head that jumps, glides or floats while spinning. When in the air, it te
 
 It is the [[TfSD SB - Gamemodes - Extra Game|Extra Game]] version of [[TfSD SB - Enemies - Kabu|Kabu]].
 ### AI States
+#### Walk and Turn
+The enemy walks back and forth in a wave-like behavior.
+#### Jump and Turn
+The enemy jumps upwards with horizontal movement, and turns around when they touch ground. The jump has a timer.

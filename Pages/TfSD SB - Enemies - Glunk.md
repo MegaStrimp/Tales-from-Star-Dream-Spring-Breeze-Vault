@@ -12,3 +12,9 @@ The enemy waits a few frames and falls down. When the enemy touches ground, they
 The enemy fires a horizontally flying bullet to the player's direction. The animation gets slower close to firing.
 #### Idle
 The enemy stands idle on the ground.
+#### Fall Down Fast
+The enemy waits a few frames and falls down. When the enemy touches ground, they switch to [[TfSD SB - Enemies - Glunk#Idle|Idle]]. It's animation speed is faster.
+#### Shoot Horizontal Fast
+The enemy fires a faster horizontally flying bullet to the player's direction. The animation is also faster and gets slower close to firing.
+#### Idle Fast
+The enemy stands idle on the ground. It's animation speed is faster.

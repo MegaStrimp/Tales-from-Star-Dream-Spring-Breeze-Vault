@@ -7,3 +7,5 @@ A Jack-o-lantern enemy that flies after the player once they wake it up by walki
 
 It is the [[TfSD SB - Gamemodes - Extra Game|Extra Game]] version of [[TfSD SB - Enemies - Two Face|Two Face]].
 ### AI States
+#### Follow Player
+The enemy starts in an idle, calm state where they cannot be inhaled. When the player gets in their one-tile radius, the enemy switches to an alerted state and follow the player with high friction.

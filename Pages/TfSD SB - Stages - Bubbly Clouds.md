@@ -92,6 +92,7 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 ##### Enemies
 -
 ##### Stage Elements
+[[TfSD SB - Items - Superspicy Curry|Superspicy Curry]]
 [[TfSD SB - Stage Elements - Star Block|Star Block]]
 [[TfSD SB - Items - 1-Up|1-Up]]
 [[TfSD SB - Stage Elements - Door|Door]]
@@ -143,25 +144,45 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 ##### Special Behaviors
 #### Bubbly Clouds EX - Level 5
 ##### Enemies
+[[TfSD SB - Enemies - Kracko Jr.#Extra|Kracko Jr. - Extra]] (ADD)
 ##### Stage Elements
+-
 ##### Special Behaviors
+> * Spawn Warp Star After Boss Dies
 #### Bubbly Clouds EX - Level 6
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
 #### Bubbly Clouds EX - Level 7
 ##### Enemies
+-
 ##### Stage Elements
+[[TfSD SB - Items - Superspicy Curry|Superspicy Curry]]
+[[TfSD SB - Stage Elements - Star Block|Star Block]]
+[[TfSD SB - Items - 1-Up|1-Up]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+> * Damaging Falling Stars
+> * Secret 1-Up
 #### Bubbly Clouds EX - Level 8
 ##### Enemies
 ##### Stage Elements
 ##### Special Behaviors
 #### Bubbly Clouds EX - Level 9
 ##### Enemies
+[[TfSD SB - Enemies - Gordo#Fall|Gordo - Fall]]
+[[TfSD SB - Enemies - Gordo#Fall Fast|Gordo - Fall Fast]]
+[[TfSD SB - Enemies - Waddle Dee#Fall|Waddle Dee - Fall]]
 ##### Stage Elements
+[[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
+[[TfSD SB - Items - 1-Up|1-Up]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds EX - Level 10
 ##### Enemies
+[[TfSD SB - Enemies - Kracko#Extra|Kracko - Extra]] (ADD)
 ##### Stage Elements
+[[TfSD SB - Items - Sparkling Star|Sparkling Star]]
 ##### Special Behaviors
+-

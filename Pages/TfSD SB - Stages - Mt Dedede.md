@@ -117,11 +117,20 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 > * Warp Star Start, Path & Camera Movement
 #### Mt Dedede EX - Level 2
 ##### Enemies
+[[TfSD SB - Enemies - Blopper#Walk and Turn Cap|Blopper - Walk and Turn Cap]]
+[[TfSD SB - Enemies - Grizzo#Walk and Turn Short Fast|Grizzo - Walk and Turn Short Fast]]
+[[TfSD SB - Enemies - Tookey#Up and Down|Tookey - Up and Down]]
+[[TfSD SB - Enemies - Poppy Bros. Jr.#Walk and Turn Short|Poppy Bros. Jr. - Walk and Turn Short]]
+[[TfSD SB - Enemies - Blopper#Stand|Blopper - Stand]]
+[[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - End Kirby|End Kirby]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Mt Dedede EX - Level 3
 ##### Enemies
-[[TfSD SB - Enemies - Whispy Woods#Normal|Whispy Woods - Normal]] (ADD)
+[[TfSD SB - Enemies - Whispy Woods#Normal|Whispy Woods - Extra]] (ADD)
 ADD ATTACKS
 ##### Stage Elements
 -
@@ -129,9 +138,20 @@ ADD ATTACKS
 > * Boss Camera Lock
 #### Mt Dedede EX - Level 4
 ##### Enemies
+[[TfSD SB - Enemies - Skuller#Up and Down|Skuller - Up and Down]]
+[[TfSD SB - Enemies - Mr. P. Umpkin#Follow Player|Mr. P. Umpkin - Follow Player]]
+[[TfSD SB - Enemies - Broom Hatter#Walk and Jump|Broom Hatter - Walk and Jump]]
+[[TfSD SB - Enemies - Glunk#Shoot Horizontal|Glunk - Shoot Horizontal]]
+[[TfSD SB - Enemies - Gaspar#Up and Down|Gaspar - Up and Down]]
+[[TfSD SB - Enemies - Flapper#Walk and Turn Fast|Flapper - Walk and Turn Fast]]
+[[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - End Kirby|End Kirby]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Mt Dedede EX - Level 5
+##### Enemies
 [[TfSD SB - Enemies - Lololo & Lalala Controller#Extra|Lololo & Lalala Controller - Extra]] (ADD)
 [[TfSD SB - Enemies - Lololo#Extra|Lololo - Extra]] (ADD)
 [[TfSD SB - Enemies - Lalala#Extra|Lalala - Extra]] (ADD)
@@ -141,12 +161,29 @@ ADD ATTACKS
 > * Go To Room After Boss Dies
 #### Mt Dedede EX - Level 6
 ##### Enemies
+[[TfSD SB - Enemies - Coconut#Fall to Player Explode|Coconut - Fall to Player Explode]]
+[[TfSD SB - Enemies - Blipper#Jump and Turn|Blipper - Jump and Turn]]
+[[TfSD SB - Enemies - Flotzo#Walk and Turn|Flotzo - Walk and Turn]]
+[[TfSD SB - Enemies - Peezer#Attack|Peezer - Attack]]
+[[TfSD SB - Enemies - Grumples#Jump and Turn|Grumples - Jump and Turn]]
+[[TfSD SB - Enemies - Coner#Dash Turn|Coner - Dash Turn]]
+[[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Spike|Spike]]
+[[TfSD SB - Stage Elements - End Kirby|End Kirby]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Mt Dedede EX - Level 7
 ##### Enemies
+[[TfSD SB - Enemies - Grumples#Walk and Turn|Grumples - Walk and Turn]]
+[[TfSD SB - Enemies - Coner#Dash Walk Fast|Coner - Dash Walk Fast]]
+[[TfSD SB - Enemies - Kaboola#Extra|Kaboola - Extra]] (ADD)
 ##### Stage Elements
+[[TfSD SB - Items - Mint Leaf|Mint Leaf]]
 ##### Special Behaviors
+> * Boss Camera Movement
+> * Go To Room After Boss Dies
 #### Mt Dedede EX - Level 8
 ##### Enemies
 ##### Stage Elements

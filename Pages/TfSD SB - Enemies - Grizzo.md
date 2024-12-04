@@ -13,3 +13,5 @@ The enemy spawns a [[TfSD SB - Enemies - Poppy Bros. Jr.#Ride Apple|Poppy Bros. 
 The enemy does constant little jumps and walks back and forth without friction in a shorter distance.
 #### Walk and Turn Fast
 The enemy does constant little jumps and walks back and forth without friction in a faster speed.
+#### Walk and Turn Short Fast
+The enemy does constant little jumps and walks back and forth without friction in a shorter distance. It's draw direction depends on a separate timer.
