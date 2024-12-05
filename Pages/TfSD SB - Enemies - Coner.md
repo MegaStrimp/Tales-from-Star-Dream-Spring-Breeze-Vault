@@ -11,5 +11,7 @@ The enemy dashes with a timer to the direction they're facing.
 The enemy starts hiding in their shell and gets out of it after a few seconds, only to guard again with a timer. Their head is animated with a timer when they're not guarding.
 #### Dash Turn
 The enemy dashes with a timer to the direction they're facing three times, then they turn around.
-#### Dash Walk
+#### Dash Walk Fast
 The enemy dashes with a timer to the direction they're facing in a faster speed and delay.
+#### Dash Turn
+The enemy dashes with a timer to the direction they're facing in a faster speed and delay three times, then they turn around.

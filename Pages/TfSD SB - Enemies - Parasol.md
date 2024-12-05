@@ -7,3 +7,5 @@ Held by [[TfSD SB - Enemies - Waddle Dee|Waddle Dees]], [[TfSD SB - Enemies - 
 ### AI States
 #### Fly
 The enemy fly upwards, and to the right by around one tile.
+#### Chase
+The enemy chases the player.

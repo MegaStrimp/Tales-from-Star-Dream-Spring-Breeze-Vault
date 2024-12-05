@@ -24,147 +24,7 @@
             }
           },
           {
-            "id": "4940a11bdc161f22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Stages - Mt Dedede.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Stages - Mt Dedede"
-            }
-          },
-          {
-            "id": "979587ac34054faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Peezer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Peezer"
-            }
-          },
-          {
-            "id": "ecdd2da3a6578847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Grumples.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Grumples"
-            }
-          },
-          {
-            "id": "4b658522a12948d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Kabu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Kabu"
-            }
-          },
-          {
-            "id": "024e73a2da2ef7e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Peezer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Peezer"
-            }
-          },
-          {
-            "id": "b8bc16a0db53f4a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Wizzer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Wizzer"
-            }
-          },
-          {
-            "id": "a48ea2774059efbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Flotzo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Flotzo"
-            }
-          },
-          {
-            "id": "8de8a8967307596a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Squishy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Squishy"
-            }
-          },
-          {
-            "id": "640609e7d6d11c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Coconut.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Coconut"
-            }
-          },
-          {
-            "id": "12b2e059b3cd1cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Blipper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Blipper"
-            }
-          },
-          {
-            "id": "9e992679a1b1668d",
+            "id": "a7b11561856a1306",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -209,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colli",
+                "query": "\"dash turn\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -322,34 +182,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4940a11bdc161f22",
+  "active": "a7b11561856a1306",
   "lastOpenFiles": [
-    "Pages/TfSD SB - Enemies - Peezer.md",
-    "Pages/TfSD SB - Stages - Mt Dedede.md",
-    "Pages/TfSD SB - Enemies - Grumples.md",
-    "Pages/TfSD SB - Enemies - Kabu.md",
-    "Pages/TfSD SB - Enemies - Flotzo.md",
-    "Pages/TfSD SB - Enemies - Wizzer.md",
     "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Enemies - Squishy.md",
-    "Pages/TfSD SB - Enemies - Coconut.md",
-    "Pages/TfSD SB - Enemies - Blipper.md",
-    "Pages/TfSD SB - Enemies - Broom Hatter.md",
     "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Cutscenes - Mt Dedede.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Enemies - Waddle Dee.md",
-    "Pages/TfSD SB - Enemies - Gaspar.md",
-    "Pages/TfSD SB - Enemies - Booler.md",
-    "Pages/TfSD SB - Enemies - Flapper.md",
-    "Pages/TfSD SB - Enemies - Skuller.md",
-    "Pages/TfSD SB - Enemies - Mumbies.md",
+    "Pages/TfSD SB - Enemies - Benny.md",
+    "Pages/TfSD SB - Enemies - Gordo.md",
+    "Pages/TfSD SB - Enemies - Flotzo.md",
+    "Pages/TfSD SB - Stages - Mt Dedede.md",
+    "Pages/TfSD SB - Enemies - Puffy.md",
+    "Pages/TfSD SB - Enemies - Cawcun.md",
+    "Pages/TfSD SB - Enemies - Waddle Doo.md",
+    "Pages/TfSD SB - Enemies - Boomer.md",
     "Pages/TfSD SB - Enemies - Koozer.md",
     "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Enemies - Dizzy.md",
+    "Pages/TfSD SB - Enemies - Whiskers.md",
+    "Pages/TfSD SB - Enemies - Kookler.md",
+    "Pages/TfSD SB - Enemies - Sir Kibble.md",
+    "Pages/TfSD SB - Enemies - Parasol.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
     "Pages/TfSD SB - Enemies - Blatzy.md",
-    "Pages/TfSD SB - Enemies - Gordo.md",
-    "Pages/TfSD SB - Enemies - Glunk.md",
-    "Pages/TfSD SB - Enemies - Hurly.md",
+    "Pages/TfSD SB - Enemies - Shotzo.md",
+    "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - Enemies - Coner.md",
+    "Pages/TfSD SB - Enemies - Squishy.md",
+    "Pages/TfSD SB - Enemies - Blipper.md",
+    "Pages/TfSD SB - Enemies - Kabu.md",
+    "Pages/TfSD SB - Enemies - Grumples.md",
     "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
     "Images/TfSD SB - Image - Stage Elements - End Kirby.png",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",

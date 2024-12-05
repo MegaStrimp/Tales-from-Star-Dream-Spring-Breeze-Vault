@@ -15,8 +15,9 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 [[TfSD SB - Enemies - Scarfy#Appear Close|Scarfy - Appear Close]]
 [[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
 [[TfSD SB - Enemies - Kookler#Circle|Kookler - Circle]]
-[[TfSD SB - Enemies - Waddle Doo#Parasol|Waddle Doo - Parasol]]
 [[TfSD SB - Enemies - Waddle Dee#Parasol|Waddle Dee - Parasol]]
+[[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]]
+[[TfSD SB - Enemies - Waddle Doo#Parasol|Waddle Doo - Parasol]]
 [[TfSD SB - Enemies - Bronto Burt#Fly Straight Horizontal Fast|Bronto Burt - Fly Straight Horizontal Fast]]
 [[TfSD SB - Enemies - Shotzo#Parasol|Shotzo - Parasol]]
 [[TfSD SB - Enemies - Dizzy#Appear When Top|Dizzy - Appear When Top]]
@@ -67,6 +68,7 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 [[TfSD SB - Items - 1-Up|1-Up]]
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds - Level 5
 ##### Enemies
 [[TfSD SB - Enemies - Kracko Jr.#Normal|Kracko Jr. - Normal]] (ADD)
@@ -105,8 +107,11 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 [[TfSD SB - Enemies - Puffy#Dash Close|Puffy - Dash Close]]
 [[TfSD SB - Enemies - Bronto Burt#Circle Dash Stand|Bronto Burt - Circle Dash Stand]]
 [[TfSD SB - Enemies - Waddle Doo#Parasol|Waddle Doo - Parasol]]
+[[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]]
 [[TfSD SB - Enemies - Waddle Dee#Parasol|Waddle Dee - Parasol]]
+[[TfSD SB - Enemies - Puffy#Diagonal|Puffy - Diagonal]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
 -
 #### Bubbly Clouds - Level 9
@@ -128,20 +133,71 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 ### Extra Levels
 #### Bubbly Clouds EX - Level 1
 ##### Enemies
+[[TfSD SB - Enemies - Waddle Doo#Walk Fast|Waddle Doo - Walk]]
+[[TfSD SB - Enemies - Gordo#Vertical Fast|Gordo - Vertical Fast]]
+[[TfSD SB - Enemies - Benny#Fly Straight Vertical|Benny - Fly Straight Vertical]]
+[[TfSD SB - Enemies - Blatzy#Follow Player|Blatzy - Follow Player]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
+[[TfSD SB - Enemies - Koozer#Bounce Fly|Koozer - Bounce Fly]]
+[[TfSD SB - Enemies - Koozer#Chase Close|Koozer - Chase Close]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Jump|Waddle Dee - Walk and Jump]]
+[[TfSD SB - Enemies - Benny#Charge Horizontal|Benny - Charge Horizontal]]
+[[TfSD SB - Enemies - Scarfy#Appear Close|Scarfy - Appear Close]]
+[[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
+[[TfSD SB - Enemies - Kookler#Circle|Kookler - Circle]]
+[[TfSD SB - Enemies - Waddle Dee#Parasol Extra|Waddle Dee - Parasol Extra]]
+[[TfSD SB - Enemies - Parasol#Chase|Parasol - Chase]]
+[[TfSD SB - Enemies - Waddle Doo#Parasol Extra|Waddle Doo - Parasol Extra]]
+[[TfSD SB - Enemies - Koozer#Fly Straight Horizontal Fast|Koozer - Fly Straight Horizontal Fast]]
+[[TfSD SB - Enemies - Blatzy#Parasol|Blatzy - Parasol]]
+[[TfSD SB - Enemies - Benny#Appear When Top|Benny - Appear When Top]]
+[[TfSD SB - Enemies - Benny#Appear Close|Benny - Appear Close]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds EX - Level 2
 ##### Enemies
+[[TfSD SB - Enemies - Boomer#Walk and Attack|Boomer - Walk and Attack]]
+[[TfSD SB - Enemies - Boomer#Stand and Attack|Boomer - Stand and Attack]]
+[[TfSD SB - Enemies - Waddle Doo#Stand and Attack|Waddle Doo - Stand and Attack]]
+[[TfSD SB - Enemies - Cawcun#Up and Down|Cawcun - Up and Down]]
+[[TfSD SB - Enemies - Koozer#Fly Straight Horizontal Fast|Koozer - Fly Straight Horizontal Fast]]
+[[TfSD SB - Enemies - Scarfy#Appear Close|Scarfy - Appear Close]]
+[[TfSD SB - Enemies - Waddle Doo#Walk|Waddle Doo - Walk]]
+[[TfSD SB - Enemies - Koozer#Fly Straight Horizontal Long|Koozer - Fly Straight Horizontal Long]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Spike|Spike]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds EX - Level 3
 ##### Enemies
+[[TfSD SB - Enemies - Waddle Dee#Walk Decrease|Waddle Dee - Walk Decrease]]
+[[TfSD SB - Enemies - Whiskers#Triangle|Whiskers - Triangle]]
+[[TfSD SB - Enemies - Benny#Triangle|Benny - Triangle]]
+[[TfSD SB - Enemies - Gordo#Zig Zag|Gordo - Zig Zag]]
+[[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
+[[TfSD SB - Enemies - Boomer#Stand and Attack|Boomer - Stand and Attack]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Water|Water]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+> * Repeating Room
 #### Bubbly Clouds EX - Level 4
 ##### Enemies
+[[TfSD SB - Enemies - Whiskers#Circle|Whiskers - Circle]]
+[[TfSD SB - Enemies - Cawcun#Shoot|Cawcun - Shoot]]
+[[TfSD SB - Enemies - Benny#Square Wave|Benny - Square Wave]]
+[[TfSD SB - Enemies - Koozer#Bounce Fly|Koozer - Bounce Fly]]
 ##### Stage Elements
+[[TfSD SB - Items - Mint Leaf|Mint Leaf]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
+[[TfSD SB - Items - 1-Up|1-Up]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds EX - Level 5
 ##### Enemies
 [[TfSD SB - Enemies - Kracko Jr.#Extra|Kracko Jr. - Extra]] (ADD)
@@ -151,8 +207,18 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 > * Spawn Warp Star After Boss Dies
 #### Bubbly Clouds EX - Level 6
 ##### Enemies
+[[TfSD SB - Enemies - Gordo#Follow|Gordo - Follow]]
+[[TfSD SB - Enemies - Waddle Dee#Walk and Turn|Waddle Dee - Walk and Turn]]
+[[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
 ##### Stage Elements
+[[TfSD SB - Items - Mint Leaf|Mint Leaf]]
+[[TfSD SB - Stage Elements - Star Block|Star Block]]
+[[TfSD SB - Items - Energy Drink|Energy Drink]]
+[[TfSD SB - Items - Maxim Tomato|Maxim Tomato]]
+[[TfSD SB - Stage Elements - Spike|Spike]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+> * Warp Star Break At Spawn
 #### Bubbly Clouds EX - Level 7
 ##### Enemies
 -
@@ -166,8 +232,17 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 > * Secret 1-Up
 #### Bubbly Clouds EX - Level 8
 ##### Enemies
+[[TfSD SB - Enemies - Boomer#Triple|Boomer - Triple]]
+[[TfSD SB - Enemies - Cawcun#Follow|Cawcun - Follow]]
+[[TfSD SB - Enemies - Koozer#Circle Dash Stand|Koozer - Circle Dash Stand]]
+[[TfSD SB - Enemies - Waddle Doo#Parasol Extra|Waddle Doo - Parasol Extra]]
+[[TfSD SB - Enemies - Parasol#Extra|Parasol - Extra]]
+[[TfSD SB - Enemies - Waddle Dee#Parasol Extra|Waddle Dee - Parasol Extra]]
+[[TfSD SB - Enemies - Cawcun#Diagonal|Cawcun - Diagonal]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+-
 #### Bubbly Clouds EX - Level 9
 ##### Enemies
 [[TfSD SB - Enemies - Gordo#Fall|Gordo - Fall]]

@@ -3,7 +3,7 @@
 [[TfSD SB - Enemy Categories - Normal|Enemy Category - Normal]]
 **Points -** 400
 
-A one-eyed opponent that acts similarly to a Waddle Dee, but may fire beams. Jumps in the [[TfSD SB - Gamemodes - Extra Game|Extra Game]].
+A one-eyed opponent that acts similarly to a Waddle Dee, but may fire beams. The beams change their appearance in the [[TfSD SB - Gamemodes - Extra Game|Extra Game]].
 ### AI States
 #### Walk and Turn
 The enemy walks back and forth in a wave-like behavior. The animation speed changes based on the movement.
@@ -23,3 +23,11 @@ The enemy stands still while doing their walking animation in a faster pace, get
 The enemy walks back and forth in a wave-like behavior. The enemy spawns a [[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]] when it gets defeated.
 #### Walk and Turn Jump
 The enemy walks back and forth in a wave-like behavior and jumps when it turns back. The animation speed changes based on the movement.
+#### Walk and Jump
+The enemy walks on a straight line, jumps every few frames and changes direction when it touches a wall. Room boundaries don't effect them.
+#### Walk Fast
+The enemy walks faster on a straight line and changes direction when it touches a wall. Room boundaries don't effect them.
+#### Parasol Extra
+**Points -** 600
+
+The enemy moves back and forth while going downwards. When the enemy touches the ground, get defeated, or when the timer is done, it spawn a [[TfSD SB - Enemies - Parasol#Chase|Parasol - Chase]] and switch to [[TfSD SB - Enemies - Waddle Doo#Walk|Waddle Doo - Walk]].

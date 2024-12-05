@@ -10,4 +10,6 @@ The enemy stands still underwater, goes right and left twice while going back to
 #### Dash and Turn
 The enemy dashes to their direction, then stops for a few frames. They dash twice, stop, dash again and do one last dash which makes the enemy turn around at the end of it.
 #### Jump and Turn
-The enemy jumps to their direction and turns around with a timer. Switches to the jumping frame while it's going upwards while facing it's initial direction. Collision doesn't effect it.
+The enemy jumps to their direction with a timer and turns around every jump. Doesn't change it's sprite direction. Collision doesn't effect it.
+#### Jump and Turn Three
+The enemy jumps to their direction with a timer and turns around every three jumps. Doesn't change it's sprite direction. Collision doesn't effect it.

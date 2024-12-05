@@ -10,7 +10,7 @@ The enemy walks back and forth in a wave-like behavior.
 #### Up Dash
 The enemy dashes upwards with a timer. Gravity and collision don't effect them.
 #### Back Fly
-The enemy walks backwards, turns around to walk forward, then jumps back and flies upwards when they land. Can't change sprite direction.
+The enemy walks backwards, turns around to walk forward, then jumps back and flies upwards when it lands. Can't change sprite direction.
 #### Bounce Fly
 The enemy flies by doing timed jumps in midair.
 #### Big Jump

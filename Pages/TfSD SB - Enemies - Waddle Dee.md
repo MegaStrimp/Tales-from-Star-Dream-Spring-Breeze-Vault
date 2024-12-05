@@ -29,3 +29,7 @@ The enemy walks back and forth in a wave-like behavior and jumps when it turns b
 The enemy walks faster on a straight line and changes direction when it touches a wall. Room boundaries don't effect them.
 #### Fall
 The enemy falls down without moving. Still does it's walking animation. Room boundaries and gravity don't effect them.
+#### Parasol Extra
+**Points -** 600
+
+The enemy moves back and forth while going downwards. When the enemy touches the ground, get defeated, or when the timer is done, it spawn a [[TfSD SB - Enemies - Parasol#Chase|Parasol - Chase]] and switch to [[TfSD SB - Enemies - Waddle Dee#Walk|Waddle Dee - Walk]].

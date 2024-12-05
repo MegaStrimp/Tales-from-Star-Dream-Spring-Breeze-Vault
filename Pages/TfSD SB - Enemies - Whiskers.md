@@ -7,3 +7,7 @@ An adversary resembling a cat's head that flies very swiftly in oval or triangul
 
 It is the [[TfSD SB - Gamemodes - Extra Game|Extra Game]] version of [[TfSD SB - Enemies - Kookler|Kookler]].
 ### AI States
+#### Circle
+The enemy follows a circular path based on their x direction.
+#### Triangle
+The enemy follows a very specific triangular path based on their x direction.

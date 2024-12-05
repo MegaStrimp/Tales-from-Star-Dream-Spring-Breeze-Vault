@@ -19,7 +19,13 @@ animation speed and wave speed increases while it's stopped.
 The enemy flies to the direction it's facing and jumps back after a timer. The animation speed gets faster while it's close to jumping.
 #### Vertical Fast
 The enemy flies up and down faster in a wave-like behavior. The animation speed changes based on the movement.
+#### Horizontal Hard
+The enemy flies left and right with a timer.
+#### Vertical Hard
+The enemy flies up and down with a timer.
 #### Fall
 The enemy falls down while moving horizontally to it's direction. Room boundaries and gravity don't effect them.
 #### Fall Fast
 The enemy falls down while moving horizontally to it's direction in a faster speed. Room boundaries and gravity don't effect them.
+#### Follow
+The enemy flies left and right with a timer and after going back, it flies one tile vertically depending on the player's position.

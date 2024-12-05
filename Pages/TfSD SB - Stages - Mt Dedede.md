@@ -86,6 +86,7 @@ Mt. Dedede is the final location Kirby visits. To get to King Dedede's wrestling
 [[TfSD SB - Enemies - Sir Kibble#Stand and Attack|Sir Kibble - Stand and Attack]]
 [[TfSD SB - Enemies - Dizzy#Walk and Turn|Dizzy - Walk and Turn]]
 [[TfSD SB - Enemies - Waddle Dee#Parasol Walk|Waddle Dee - Parasol Walk]]
+[[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]]
 [[TfSD SB - Enemies - Waddle Doo#Parasol Walk|Waddle Doo - Parasol Walk]]
 [[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
@@ -186,8 +187,20 @@ ADD ATTACKS
 > * Go To Room After Boss Dies
 #### Mt Dedede EX - Level 8
 ##### Enemies
+[[TfSD SB - Enemies - Cawcun#Diagonal|Cawcun - Diagonal]]
+[[TfSD SB - Enemies - Whiskers#Triangle|Whiskers - Triangle]]
+[[TfSD SB - Enemies - Scarfy#Up and Down|Scarfy - Up and Down]]
+[[TfSD SB - Enemies - Sir Kibble#Stand and Attack|Sir Kibble - Stand and Attack]]
+[[TfSD SB - Enemies - Benny#Walk and Jump|Benny - Walk and Jump]]
+[[TfSD SB - Enemies - Waddle Dee#Parasol Walk|Waddle Dee - Parasol Walk]]
+[[TfSD SB - Enemies - Parasol#Fly|Parasol - Fly]]
+[[TfSD SB - Enemies - Waddle Doo#Parasol Walk|Waddle Doo - Parasol Walk]]
+[[TfSD SB - Enemies - Gordo#Door|Gordo - Door]]
 ##### Stage Elements
+[[TfSD SB - Stage Elements - End Kirby|End Kirby]]
+[[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors
+> * Falling Stars
 #### Mt Dedede EX - Level 9
 ##### Enemies
 [[TfSD SB - Enemies - Kracko#Extra|Kracko - Extra]] (ADD)
