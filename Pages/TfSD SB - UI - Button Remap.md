@@ -5,4 +5,6 @@ Pressing the 'up'/'down' keys scrolls through the available options, and pressin
 
 Additionally, there's an extra option that changes the layout type for the player's controller to 'Type A' or 'Type B'. The 'Type A' option maps the 'A' key to 'face buttons 2 & 3' and the 'B' key to 'face buttons 1 & 4', while the 'Type B' option maps the 'A' key to 'face buttons 1 & 4' and the 'B' key to 'face buttons 2 & 3'.
 
+There's a final option to reset all key bindings.
+
 Pressing the 'B' key while no options are selected moves the player back to [[TfSD SB - UI - Config Mode|Config Mode]].
