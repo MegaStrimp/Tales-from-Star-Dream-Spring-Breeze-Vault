@@ -93,7 +93,7 @@ Created in GameMaker and StarDream Framework.
 * [[TfSD SB - UI - Scene Select|Scene Select]]
 * [[TfSD SB - UI - Sound Test|Sound Test]]
 * [[TfSD SB - UI - Config Mode|Config Mode]]
-* [[TfSD SB - UI - Button Remap|Keyboard Remap]] (ADD IMAGE)
+* [[TfSD SB - UI - Button Remap|Keyboard Remap]]
 * [[TfSD SB - UI - Credits Screen|Credits Screen]] (ADD IMAGE)
 * [[TfSD SB - UI - Character Select|Character Select]] (ADD IMAGE)
 * [[TfSD SB - UI - HUD|HUD]]

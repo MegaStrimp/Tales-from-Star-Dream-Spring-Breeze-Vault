@@ -1,4 +1,5 @@
 ## Button Remap
+![[TfSD SB - Image - UI - Button Remap.png]]
 A menu where the player can remap their keyboard input and change controller control type.
 
 Pressing the 'up'/'down' keys scrolls through the available options, and pressing the 'A'/'Start' keys selects the chosen option. While an option is selected, the player can press any button in their keyboard to map their chosen keyboard key to the selected in-game control.
