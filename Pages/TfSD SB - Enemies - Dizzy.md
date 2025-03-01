@@ -6,13 +6,11 @@
 Tumbling through the air, this strange creature flies in a straight line or bounces in a triangular pattern between walls.
 ### AI States
 #### Fly Straight Vertical
-The enemy flies straight vertically.
+The enemy flies straight vertically if the player is 3 tiles close to its x position.
 #### Charge Horizontal
 The enemy charges for a few seconds and flies horizontally to the direction they're facing.
 #### Appear When Top
 The enemy flies straight vertically if the player is on top of it.
-#### Appear Close
-The enemy flies straight vertically if the player is one tile close to it.
 #### Triangle
 The enemy follows a very specific triangular path.
 #### Square Wave

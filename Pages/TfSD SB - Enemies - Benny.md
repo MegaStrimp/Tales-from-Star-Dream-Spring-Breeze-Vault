@@ -13,8 +13,6 @@ The enemy flies straight vertically.
 The enemy charges for a few seconds and flies horizontally to the direction they're facing.
 #### Appear When Top
 The enemy flies straight vertically if the player is on top of it.
-#### Appear Close
-The enemy flies straight vertically if the player is one tile close to it.
 #### Triangle
 The enemy follows a very specific triangular path.
 #### Square Wave

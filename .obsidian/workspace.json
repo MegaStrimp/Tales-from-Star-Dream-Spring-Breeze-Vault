@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d94e1a2f3ec693b9",
+        "id": "c5d12efc30f09952",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca58c6c8758f0b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/Tales from Star Dream ~ Spring Breeze.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Tales from Star Dream ~ Spring Breeze"
-            }
-          },
-          {
-            "id": "b03410fc1292993e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/TfSD SB - Image - UI - Button Remap.png"
-              },
-              "icon": "lucide-image",
-              "title": "TfSD SB - Image - UI - Button Remap"
-            }
-          },
-          {
-            "id": "7132638a055a62af",
+            "id": "efe776efb770e112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "TfSD SB - Enemies - Bronto Burt"
+            }
+          },
+          {
+            "id": "6433fdab6efd059a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Koozer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Koozer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fake out",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 339.5
   },
   "right": {
     "id": "dc4dcd87cbe69539",
@@ -193,38 +179,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7132638a055a62af",
+  "active": "6433fdab6efd059a",
   "lastOpenFiles": [
+    "2025-02-28.md",
+    "Pages/TfSD SB - Enemies - Koozer.md",
+    "2025-02-27.md",
+    "Pages/TfSD SB - Enemies - Bronto Burt.md",
+    "Pages/TfSD SB - Enemies - Tookey.md",
+    "Pages/TfSD SB - Enemies - Twizzy.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Enemies - Glunk.md",
+    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
+    "Pages/TfSD SB - Enemies - Gordo.md",
+    "Pages/TfSD SB - Stages - Castle Lololo.md",
+    "Pages/TfSD SB - Enemies - Chuckie.md",
+    "Pages/TfSD SB - Enemies - Cappy.md",
+    "Pages/TfSD SB - Enemies - Boomer.md",
+    "Pages/TfSD SB - Enemies - Dizzy.md",
+    "Pages/TfSD SB - Enemies - Benny.md",
+    "Pages/TfSD SB - Enemies - Coner.md",
+    "Pages/TfSD SB - Stages - Mt Dedede.md",
+    "Pages/TfSD SB - Stages - Float Islands.md",
+    "Pages/TfSD SB - Enemies - Coconut.md",
+    "Pages/TfSD SB - Enemies - Hurly.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Pages/TfSD SB - Enemies - Apple.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "Pages/TfSD SB - Changelog - Version 0.1.md",
+    "Pages/TfSD SB - Changelog - Version 0.2.md",
     "Images/TfSD SB - Image - UI - Button Remap.png",
     "Images/TfSD SB - UI - Credits Screen.png",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Enemies - Lololo.md",
-    "Pages/TfSD SB - UI - Data Select.md",
-    "Pages/TfSD SB - UI - Game Over.md",
-    "Pages/TfSD SB - Enemies - Flapper.md",
     "Images/TfSD SB - Image - Enemies - Flapper.png",
     "Images/TfSD SB - Image - Enemies - Flapper.png.0.pdnSave",
-    "Pages/TfSD SB - UI - Title Screen.md",
-    "Pages/TfSD SB - UI - Button Remap.md",
-    "Pages/TfSD SB - Enemies - Blatzy.md",
-    "Pages/TfSD SB - Enemies - Cawcun.md",
-    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Enemies - Grumples.md",
-    "Pages/TfSD SB - UI - Credits Screen.md",
-    "Pages/TfSD SB - UI - Config Mode.md",
     "Images/TfSD SB - Image - UI - Config Mode.png",
-    "Pages/TfSD SB - Stages - Green Greens.md",
-    "Pages/TfSD SB - Enemies - Grizzo.md",
-    "Pages/TfSD SB - Enemies - Benny.md",
-    "Pages/TfSD SB - Enemies - Gordo.md",
-    "Pages/TfSD SB - Enemies - Flotzo.md",
-    "Pages/TfSD SB - Stages - Mt Dedede.md",
-    "Pages/TfSD SB - Enemies - Puffy.md",
-    "Pages/TfSD SB - Enemies - Waddle Doo.md",
-    "Pages/TfSD SB - Enemies - Boomer.md",
-    "Pages/TfSD SB - Enemies - Koozer.md",
-    "Pages/TfSD SB - Enemies - Bronto Burt.md",
-    "Pages/TfSD SB - Enemies - Dizzy.md",
     "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
     "Images/TfSD SB - Image - Stage Elements - End Kirby.png",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",

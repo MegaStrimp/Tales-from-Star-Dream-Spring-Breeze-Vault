@@ -1,5 +1,4 @@
 ## Glunk
-## Glunk
 ![[TfSD SB - Image - Enemies - Glunk.png]]
 [[TfSD SB - Enemy Categories - Normal|Enemy Category - Normal]]
 **Points -** 1000
@@ -13,7 +12,7 @@ The enemy fires a horizontally flying bullet to the player's direction. The anim
 #### Idle
 The enemy stands idle on the ground.
 #### Fall Down Fast
-The enemy waits a few frames and falls down. When the enemy touches ground, they switch to [[TfSD SB - Enemies - Glunk#Idle|Idle]]. It's animation speed is faster.
+The enemy waits a few frames and falls down. When the enemy touches ground, they switch to [[TfSD SB - Enemies - Glunk#Idle Fast|Idle Fast]].
 #### Shoot Horizontal Fast
 The enemy fires a faster horizontally flying bullet to the player's direction. The animation is also faster and gets slower close to firing.
 #### Idle Fast

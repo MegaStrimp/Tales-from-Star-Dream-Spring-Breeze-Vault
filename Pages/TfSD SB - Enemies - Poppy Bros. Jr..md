@@ -7,7 +7,7 @@ Hopping back and forth, this small creature can harm the player if they bump int
 ### AI States
 #### Walk and Turn
 The enemy does constant little jumps and walks back and forth without friction.
-#### Entity Apple
-The enemy is spawned by an entity and follows it while doing an animation. The image index changes when it turns. If the apple doesn't exist, the enemy does a big jump and switches to [[TfSD SB - Enemies - Poppy Bros. Jr.#Walk and Turn Short|Walk and Turn Short]].
+#### Ride Entity
+The enemy is spawned by an entity and follows it while doing an animation. The image index changes when it turns. If the entity doesn't exist, the enemy does a big jump and switches to [[TfSD SB - Enemies - Poppy Bros. Jr.#Walk and Turn Short|Walk and Turn Short]].
 #### Walk and Turn Short
 The enemy does constant little jumps and walks back and forth without friction in a shorter distance.

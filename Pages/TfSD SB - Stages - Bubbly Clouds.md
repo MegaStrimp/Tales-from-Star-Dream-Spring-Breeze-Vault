@@ -21,7 +21,6 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 [[TfSD SB - Enemies - Bronto Burt#Fly Straight Horizontal Fast|Bronto Burt - Fly Straight Horizontal Fast]]
 [[TfSD SB - Enemies - Shotzo#Parasol|Shotzo - Parasol]]
 [[TfSD SB - Enemies - Dizzy#Appear When Top|Dizzy - Appear When Top]]
-[[TfSD SB - Enemies - Dizzy#Appear Close|Dizzy - Appear Close]]
 [[TfSD SB - Enemies - Bronto Burt#Bounce Fly|Bronto Burt - Bounce Fly]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
@@ -151,7 +150,6 @@ The Bubbly Clouds is the fourth and penultimate region that Kirby visits, being 
 [[TfSD SB - Enemies - Koozer#Fly Straight Horizontal Fast|Koozer - Fly Straight Horizontal Fast]]
 [[TfSD SB - Enemies - Blatzy#Parasol|Blatzy - Parasol]]
 [[TfSD SB - Enemies - Benny#Appear When Top|Benny - Appear When Top]]
-[[TfSD SB - Enemies - Benny#Appear Close|Benny - Appear Close]]
 ##### Stage Elements
 [[TfSD SB - Stage Elements - Door|Door]]
 ##### Special Behaviors

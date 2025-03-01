@@ -9,7 +9,7 @@
 - [x] Added the Scene Select Screen
 - [x] Added the Sound Test Screen
 - [x] Added the Config Mode Screen
-- [ ] Added the Button Remap Screen
+- [x] Added the Button Remap Screen
 - [x] Added the Credits Screen
 - [x] Added the Character Select Screen
 - [x] Added the Pause Screen
