@@ -8,35 +8,160 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efe776efb770e112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pages/TfSD SB - Enemies - Bronto Burt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Bronto Burt"
-            }
-          },
-          {
             "id": "6433fdab6efd059a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/TfSD SB - Enemies - Koozer.md",
+                "file": "Pages/Tales from Star Dream ~ Spring Breeze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TfSD SB - Enemies - Koozer"
+              "title": "Tales from Star Dream ~ Spring Breeze"
+            }
+          },
+          {
+            "id": "d9d75ae5db294c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Lololo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Lololo"
+            }
+          },
+          {
+            "id": "d50f3762074dc2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Whispy Woods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Whispy Woods"
+            }
+          },
+          {
+            "id": "5647d0f1f2b217dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Dark Interloper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Dark Interloper"
+            }
+          },
+          {
+            "id": "9f1383d6bed34521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - King Dedede.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - King Dedede"
+            }
+          },
+          {
+            "id": "be54e3eb32b47d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Kracko Jr..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Kracko Jr."
+            }
+          },
+          {
+            "id": "c158eb91ab67f496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Kaboola.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Kaboola"
+            }
+          },
+          {
+            "id": "5c162aebf9495b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Lololo & Lalala Controller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Lololo & Lalala Controller"
+            }
+          },
+          {
+            "id": "3b96d5d041cdc68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Lalala.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Lalala"
+            }
+          },
+          {
+            "id": "eb0e32615f025f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Lololo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Lololo"
+            }
+          },
+          {
+            "id": "215305915c08b1e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pages/TfSD SB - Enemies - Poppy Bros. Sr..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TfSD SB - Enemies - Poppy Bros. Sr."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,52 +306,51 @@
   },
   "active": "6433fdab6efd059a",
   "lastOpenFiles": [
-    "2025-02-28.md",
+    "Pages/TfSD SB - Enemies - Dark Interloper.md",
+    "Images/TfSD SB - Image - Enemies - Kracko Jr..png",
+    "Images/TfSD SB - Image - Enemies - Lololo.png",
+    "Images/TfSD SB - Image - Enemies - Whispy Woods.png",
+    "Images/TfSD SB - Image - Enemies - Poppy Bros. Sr..png",
+    "Images/TfSD SB - Image - Enemies - Lalala.png",
+    "Images/TfSD SB - Image - Enemies - Kaboola.png",
+    "Images/TfSD SB - Image - Enemies - Kracko.png",
+    "Images/TfSD SB - Image - Enemies - King Dedede.png",
+    "Pages/TfSD SB - Enemies - Whispy Woods.md",
+    "Pages/TfSD SB - Enemies - Lololo.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Sr..md",
+    "Pages/TfSD SB - Enemies - Lalala.md",
+    "Pages/TfSD SB - Enemies - Lololo & Lalala Controller.md",
+    "Pages/TfSD SB - Enemies - Kaboola.md",
+    "Pages/TfSD SB - Enemies - Kracko Jr..md",
+    "Pages/TfSD SB - Enemies - King Dedede.md",
+    "Pages/TfSD SB - Enemies - Waddle Dee.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
+    "Images/TfSD SB - Image - Enemies - Bronto Burt.png",
+    "TfSD SB - Image - Enemies - Lololo.png.0.pdnSave",
+    "Pages/TfSD SB - UI - Scene Select.md",
+    "Pages/TfSD SB - UI - Credits Screen.md",
+    "Pages/TfSD SB - Stages - Green Greens.md",
+    "Pages/TfSD SB - Stage Elements - Spike.md",
+    "Pages/TfSD SB - Progression.md",
+    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
+    "Pages/TfSD SB - Enemies - Kracko.md",
     "Pages/TfSD SB - Enemies - Koozer.md",
+    "2025-02-28.md",
     "2025-02-27.md",
     "Pages/TfSD SB - Enemies - Bronto Burt.md",
     "Pages/TfSD SB - Enemies - Tookey.md",
     "Pages/TfSD SB - Enemies - Twizzy.md",
-    "Pages/TfSD SB - Stages - Green Greens.md",
     "Pages/TfSD SB - Enemies - Glunk.md",
-    "Pages/TfSD SB - Stages - Bubbly Clouds.md",
-    "Pages/TfSD SB - Enemies - Gordo.md",
-    "Pages/TfSD SB - Stages - Castle Lololo.md",
-    "Pages/TfSD SB - Enemies - Chuckie.md",
-    "Pages/TfSD SB - Enemies - Cappy.md",
-    "Pages/TfSD SB - Enemies - Boomer.md",
-    "Pages/TfSD SB - Enemies - Dizzy.md",
-    "Pages/TfSD SB - Enemies - Benny.md",
-    "Pages/TfSD SB - Enemies - Coner.md",
-    "Pages/TfSD SB - Stages - Mt Dedede.md",
-    "Pages/TfSD SB - Stages - Float Islands.md",
-    "Pages/TfSD SB - Enemies - Coconut.md",
-    "Pages/TfSD SB - Enemies - Hurly.md",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
-    "Pages/TfSD SB - Enemies - Apple.md",
-    "Pages/TfSD SB - Enemies - Poppy Bros. Jr..md",
-    "Pages/TfSD SB - Changelog - Version 0.1.md",
-    "Pages/TfSD SB - Changelog - Version 0.2.md",
     "Images/TfSD SB - Image - UI - Button Remap.png",
-    "Images/TfSD SB - UI - Credits Screen.png",
-    "Images/TfSD SB - Image - Enemies - Flapper.png",
     "Images/TfSD SB - Image - Enemies - Flapper.png.0.pdnSave",
-    "Images/TfSD SB - Image - UI - Config Mode.png",
-    "Images/TfSD SB - Image - Enemies - Cappy Cap.png",
-    "Images/TfSD SB - Image - Stage Elements - End Kirby.png",
     "Images/TfSD SB - Image - UI - Config Mode.png.0.pdnSave",
     "Images/TfSD SB - Image - UI - Character Select.png.0.pdnSave",
-    "Images/TfSD SB - Image - UI - Character Select.png",
     "Images/TfSD SB - Image - UI - Character Select Screen.png.0.pdnSave",
-    "Images/TfSD SB - Image - UI - Main Menu.png",
-    "Images/TfSD SB - Image - UI - Scene Select.png",
-    "Images/TfSD SB - Image - UI - Data Select.png",
     "Images/TfSD SB - Image - Items - 1-Up.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Maxim Tomato.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Bomb.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Invincible Candy.png.0.pdnSave",
     "Images/TfSD SB - Image - Items - Mike.png.0.pdnSave",
-    "Images/TfSD SB - Image - Items - Mint Leaf.png.0.pdnSave",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
