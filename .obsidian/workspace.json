@@ -295,6 +295,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -306,6 +307,8 @@
   },
   "active": "6433fdab6efd059a",
   "lastOpenFiles": [
+    "Pages/TfSD SB - UI - Game Over.md",
+    "Pages/Tales from Star Dream ~ Spring Breeze.md",
     "Pages/TfSD SB - Enemies - Dark Interloper.md",
     "Images/TfSD SB - Image - Enemies - Kracko Jr..png",
     "Images/TfSD SB - Image - Enemies - Lololo.png",
@@ -324,7 +327,6 @@
     "Pages/TfSD SB - Enemies - Kracko Jr..md",
     "Pages/TfSD SB - Enemies - King Dedede.md",
     "Pages/TfSD SB - Enemies - Waddle Dee.md",
-    "Pages/Tales from Star Dream ~ Spring Breeze.md",
     "Images/TfSD SB - Image - Enemies - Bronto Burt.png",
     "TfSD SB - Image - Enemies - Lololo.png.0.pdnSave",
     "Pages/TfSD SB - UI - Scene Select.md",
